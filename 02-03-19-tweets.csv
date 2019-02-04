@@ -1,0 +1,591 @@
+,tweet_source,tweet_text,tweet_date,tweet_vader_score,tweet_pos_score,tweet_neu_score,tweet_neg_score
+0,Fox News,BREAKING: Federal appeals court rules against Trump administration on DACA https://t.co/KHnrNvEKAM,Thu Nov 08 19:18:44 +0000 2018,0.0,0.0,1.0,0.0
+1,Fox News,"Breaking News: Grand jury indicts captain of Missouri duck boat that sank in severe weather, killing 17 people https://t.co/ffOOgzRwdo",Thu Nov 08 17:02:25 +0000 2018,-0.6124,0.115,0.615,0.269
+2,Fox News,"JUST IN: Police identify gunman who opened fire inside California bar, killing 12 https://t.co/PvITYr54AX",Thu Nov 08 15:14:45 +0000 2018,-0.7783,0.0,0.638,0.362
+3,Fox News,JUST IN: Supreme Court Justice Ruth Bader Ginsburg fractures 3 ribs in fall https://t.co/9UM9hKTz4m,Thu Nov 08 14:22:51 +0000 2018,0.7906,0.389,0.611,0.0
+4,Fox News,"Sgt. Ron Helus was fatally shot when he responded to the mass shooting on Nov. 7 at a bar in Thousand Oaks, Califor… https://t.co/vOH3OWPN5S",Thu Nov 08 13:43:25 +0000 2018,-0.6369,0.0,0.833,0.167
+5,Fox News,Tom Homan: “It’s a tragedy each and every time.” https://t.co/dMV68Hfdz0 https://t.co/hrq51VJg7x,Thu Nov 08 13:35:03 +0000 2018,-0.6597,0.0,0.672,0.328
+6,Fox News,"People walk away from the scene in Thousand Oaks, Calif. where a gunman opened fire Wednesday.… https://t.co/O3Oo2iLL8O",Thu Nov 08 13:22:27 +0000 2018,-0.34,0.0,0.862,0.138
+7,Fox News,Teylor Whittler describes what she witnessed at California bar shooting https://t.co/dMV68Hfdz0 https://t.co/YznTZgQoYY,Thu Nov 08 12:56:20 +0000 2018,0.0,0.0,1.0,0.0
+8,Fox News,"An FBI agent talks to a potential witness as they stand near the scene in Thousand Oaks, Calif. where a gunman open… https://t.co/7QOmXNTYM0",Thu Nov 08 12:37:05 +0000 2018,0.0,0.0,1.0,0.0
+9,Fox News,Ventura County Fire Department Captain Stan Ziegler: “Hundreds of first responders responded initially to the scene… https://t.co/o4gArhmy4e,Thu Nov 08 12:25:14 +0000 2018,-0.34,0.0,0.87,0.13
+10,Fox News,"People comfort each other as they stand near the scene in Thousand Oaks, Calif. where a gunman opened fire during a… https://t.co/wPI4XSpirC",Thu Nov 08 12:06:14 +0000 2018,0.0258,0.105,0.795,0.1
+11,Fox News,"California bar shooting leaves 12 dead, including sheriff's sergeant, police say https://t.co/dMV68Hfdz0 https://t.co/WvjarPpwPV",Thu Nov 08 11:54:22 +0000 2018,-0.6486,0.0,0.736,0.264
+12,Fox News,"California bar shooting leaves 12 dead, including sheriff's sergeant, police say https://t.co/GqI77wMuYZ",Thu Nov 08 11:38:17 +0000 2018,-0.6486,0.0,0.719,0.281
+13,Fox News,"Sheriff's deputies speak to potential witnesses as they stand near the scene in Thousand Oaks, Calif., where a gunm… https://t.co/jPE8k9oQHr",Thu Nov 08 11:32:26 +0000 2018,0.0,0.0,1.0,0.0
+14,Fox News,13 dead in country music bar including gunman https://t.co/PvITYr54AX https://t.co/UURBIatqte,Thu Nov 08 11:26:46 +0000 2018,-0.6486,0.0,0.677,0.323
+15,Fox News,"12 dead in shooting at Thousand Oaks nightclub, police say https://t.co/PvITYr54AX https://t.co/o8Nf8WuJcZ",Thu Nov 08 11:18:08 +0000 2018,-0.6486,0.0,0.719,0.281
+16,Fox News,"Breaking News: At least 12 dead in shooting at Thousand Oaks nightclub, police say https://t.co/u6sVxdzHq5",Thu Nov 08 11:13:32 +0000 2018,-0.6486,0.0,0.765,0.235
+17,Fox News,.@CarleyShimkus is live with the ‘Fox News Update’ on Facebook Watch: https://t.co/hNrB8xzepH https://t.co/cQ9uxkjUIK,Thu Nov 08 11:12:14 +0000 2018,0.0,0.0,1.0,0.0
+18,Fox News,"Authorities deliver an update on the shooting in Thousand Oaks, California. (Courtesy: KABC) https://t.co/BtGxxIfNx5",Thu Nov 08 10:53:33 +0000 2018,0.0,0.0,1.0,0.0
+19,Fox News,Pastor Dimas Salaberrios on California shooting: “My immediate thoughts go out to the families. Because what’s happ… https://t.co/iowf5VOL2l,Thu Nov 08 10:36:12 +0000 2018,0.0,0.0,1.0,0.0
+20,CNN,Two people were killed and two others injured when a small plane crashed into a home on Sunday outside of Los Angel… https://t.co/rSXFDNAWjd,Mon Feb 04 01:33:24 +0000 2019,-0.802,0.0,0.725,0.275
+21,CNN,"Instead of sugary treats, fatty chips, or high-calorie sodas, a vending machine at this elementary school is filled… https://t.co/OJdVjWBIeI",Mon Feb 04 01:30:03 +0000 2019,0.0,0.0,1.0,0.0
+22,CNN,An 11-year-old girl began asking nursing home residents what three things in the world they wish they had right now… https://t.co/BsSv6lrZDA,Mon Feb 04 01:15:07 +0000 2019,0.4019,0.119,0.881,0.0
+23,CNN,The US government received its worst score since 2011 in a global survey measuring government corruption… https://t.co/0Qx0Zx8Cc0,Mon Feb 04 01:00:11 +0000 2019,-0.6249,0.0,0.785,0.215
+24,CNN,Trump says he'd have a hard time letting his son Barron play football https://t.co/nmtcSbryCN https://t.co/HiWo1psXbn,Mon Feb 04 00:45:05 +0000 2019,0.25,0.152,0.759,0.089
+25,CNN,Trump says use of military force in Venezuela is still on the table https://t.co/scIJiJ0JBE https://t.co/vhiOENuLmQ,Mon Feb 04 00:30:09 +0000 2019,0.0,0.0,1.0,0.0
+26,CNN,Here's who has called for Ralph Northam's resignation https://t.co/EilZxUubWJ https://t.co/Rt00OGlIEV,Mon Feb 04 00:15:06 +0000 2019,-0.296,0.0,0.804,0.196
+27,CNN,"A massive hole two-thirds the size of Manhattan has been discovered growing in an Antarctic glacier, signaling rapi… https://t.co/cHWFSwg9Pa",Mon Feb 04 00:00:13 +0000 2019,0.1779,0.091,0.909,0.0
+28,CNN,A nine-year conservation project on King Tutankhamun's tomb has finished https://t.co/nHNalg7IJM https://t.co/im0tZYJecK,Sun Feb 03 23:45:06 +0000 2019,0.0,0.0,1.0,0.0
+29,CNN,The most shocking part of the racist yearbook photo is what critics leave out | Analysis by John Blake… https://t.co/tWDxDvfoGY,Sun Feb 03 23:30:12 +0000 2019,-0.8553,0.0,0.591,0.409
+30,CNN,This CEO wants to make grocery shopping effortless https://t.co/Ng5MqYFu0V https://t.co/8j45AjjnU0,Sun Feb 03 23:15:00 +0000 2019,0.0,0.0,1.0,0.0
+31,CNN,What a Dixie Ribs joint owner taught me about forgiveness and reconciliation | By Johnita P. Due for @CNNOpinion… https://t.co/buWPVQKB3m,Sun Feb 03 23:00:19 +0000 2019,0.2732,0.11,0.89,0.0
+32,CNN,"ICE arrests rapper 21 Savage, says he's illegally present in US https://t.co/ummiB2UzXm https://t.co/9Iqzq6jagk",Sun Feb 03 22:44:13 +0000 2019,-0.7096,0.0,0.651,0.349
+33,CNN,"Axios: Since midterms, Trump has spent nearly 60% of his scheduled time in unstructured 'executive time'… https://t.co/ymWgzwopYH",Sun Feb 03 22:30:14 +0000 2019,0.0,0.0,1.0,0.0
+34,CNN,"These brands want to make your work clothes comfortable, functional and high-tech https://t.co/U6ZMK476BN https://t.co/e9IqTooxNh",Sun Feb 03 22:15:00 +0000 2019,0.5574,0.277,0.723,0.0
+35,CNN,Gov. Cuomo calls on DOJ to investigate power outage at Brooklyn detention center https://t.co/58xkvkhDim https://t.co/DT7awh0Qcb,Sun Feb 03 22:00:05 +0000 2019,-0.3612,0.0,0.848,0.152
+36,CNN,Sen. Richard Shelby: Bipartisan committee must listen to border security experts https://t.co/wKrVZKNIJV https://t.co/EjRzHSAW0o,Sun Feb 03 21:45:07 +0000 2019,0.34,0.167,0.833,0.0
+37,CNN,"Aid, assets top opposition priorities as Venezuelan power struggle trudges on https://t.co/dhRC1o4UNY https://t.co/QWPZVGWxb7",Sun Feb 03 21:30:04 +0000 2019,0.0516,0.222,0.633,0.146
+38,CNN,Pepsi is one of the biggest sponsors of Super Bowl 53 in Atlanta -- the home of Coca-Cola https://t.co/nvTmRMqYgD https://t.co/THEVsQ15gc,Sun Feb 03 21:15:00 +0000 2019,0.5994,0.17,0.83,0.0
+39,CNN,"Pentagon will deploy approximately 3,750 additional US forces to provide more support at southwest border… https://t.co/NEjoEnn8ap",Sun Feb 03 21:06:44 +0000 2019,0.4576,0.166,0.834,0.0
+40,BBC News (World),What's happening this week? https://t.co/Vw0u1tcLNQ,Mon Feb 04 01:14:30 +0000 2019,0.0,0.0,1.0,0.0
+41,BBC News (World),Brazil dam collapse: The crucial questions https://t.co/hj1wUnD8uO,Mon Feb 04 00:01:15 +0000 2019,-0.4939,0.0,0.652,0.348
+42,BBC News (World),21 savage: Rapper 'arrested by US immigration force' https://t.co/Cd3UEwIdoY,Sun Feb 03 21:34:17 +0000 2019,-0.7269,0.0,0.534,0.466
+43,BBC News (World),"RT @BBCSport: Kansas City Chiefs quarterback Patrick Mahomes wins the 2018 NFL Most Valuable Player award 👏👏👏
+
+He's the youngest player to…",Sun Feb 03 16:53:53 +0000 2019,0.8969,0.364,0.636,0.0
+44,BBC News (World),In pictures: Rodrigo Duterte and Kim Jong-un impersonators cause a stir https://t.co/8aBxIWXJUn,Sun Feb 03 16:38:12 +0000 2019,0.0,0.0,1.0,0.0
+45,BBC News (World),"RT @BBCNews: A black cat invaded the pitch at the game between Everton and Wolves — and BBC commentator John Acres did not disappoint 😹⚽
+
+[…",Sun Feb 03 15:49:21 +0000 2019,0.3089,0.089,0.911,0.0
+46,BBC News (World),Venezuela crisis: US sending aid 'at Guaidó's request' https://t.co/Toj6fRXP4x,Sun Feb 03 15:09:17 +0000 2019,-0.6249,0.0,0.661,0.339
+47,BBC News (World),"It's #SuperBowl Sunday
+
+Watch our episode on how Atlanta is preparing the city for an increase in sex trafficking t… https://t.co/nl7ULTMVeE",Sun Feb 03 15:04:51 +0000 2019,0.3182,0.103,0.897,0.0
+48,BBC News (World),No traffic in Addis Ababa as Ethiopia marks Car Free Day https://t.co/FZqr3LXsz5,Sun Feb 03 13:01:22 +0000 2019,0.2732,0.213,0.645,0.142
+49,BBC News (World),Yemi Osinbajo helicopter crash: Nigeria's VP thanks crew https://t.co/imhX6LNg4C,Sun Feb 03 12:52:13 +0000 2019,0.0516,0.23,0.556,0.214
+50,BBC News (World),Australia weather: Townsville warned as floodgates open https://t.co/Nu9P2G9zSO,Sun Feb 03 12:06:04 +0000 2019,-0.2732,0.0,0.769,0.231
+51,BBC News (World),Brooklyn prison: Power and heat failure sparks protest https://t.co/4RpcSLikkp,Sun Feb 03 11:00:16 +0000 2019,-0.8225,0.0,0.411,0.589
+52,BBC News (World),World War One grenade among potatoes at Hong Kong crisp factory https://t.co/4VHwkgZJDm,Sun Feb 03 10:17:15 +0000 2019,-0.5994,0.0,0.738,0.262
+53,BBC News (World),In Pictures: Pain and ecstasy at the Lagos marathon https://t.co/loRiAm8pMX,Sun Feb 03 10:03:20 +0000 2019,0.1531,0.257,0.526,0.217
+54,BBC News (World),Robert Mueller: America's most mysterious public figure https://t.co/VpVFQXsHKH,Sun Feb 03 08:37:05 +0000 2019,0.0,0.0,1.0,0.0
+55,BBC News (World),Nauru migrants: Last four children to leave island for US https://t.co/6qUxXzC32c,Sun Feb 03 08:28:30 +0000 2019,-0.0516,0.0,0.893,0.107
+56,BBC News (World),Colombia Farc: Dissident leader Rodrigo Cadete killed in military operation https://t.co/N1XDAPdhr3,Sun Feb 03 05:10:31 +0000 2019,-0.6705,0.0,0.69,0.31
+57,BBC News (World),Pope Francis to embark on historic visit to UAE https://t.co/RATHxyvGFs,Sun Feb 03 04:20:24 +0000 2019,0.0,0.0,1.0,0.0
+58,BBC News (World),US fake university: India protests after students arrested https://t.co/5n1c33ijvV,Sun Feb 03 00:59:57 +0000 2019,-0.7964,0.0,0.426,0.574
+59,BBC News (World),"Obituary: Kim Bok-dong, the South Korean 'comfort woman' https://t.co/r3zRXyoAEk",Sun Feb 03 00:02:03 +0000 2019,0.3612,0.238,0.762,0.0
+60,CBS News,Maroon 5 kicks off the Pepsi #SuperBowl LIII halftime show with hit “Harder to Breathe.” 🎶 https://t.co/siePGOQKf1 https://t.co/qLOjyUZdXx,Mon Feb 04 01:22:04 +0000 2019,0.0,0.0,1.0,0.0
+61,CBS News,Have you ever wondered how the Vince Lombardi Super Bowl trophy makes its way to the field? Here's a look at the tr… https://t.co/Hfvv1vaU48,Mon Feb 04 01:20:00 +0000 2019,0.5994,0.151,0.849,0.0
+62,CBS News,"JUST IN: The New England #Patriots lead the Los Angeles #Rams, 3 to 0, as the #SuperBowl halftime show is about to… https://t.co/lfF9scpaVj",Mon Feb 04 01:01:18 +0000 2019,0.0,0.0,1.0,0.0
+63,CBS News,"Plane crash kills 2 people, causes damage in Yorba Linda, California https://t.co/lV7FyanIGg https://t.co/slrM4xk5GK",Mon Feb 04 00:39:39 +0000 2019,-0.8555,0.0,0.489,0.511
+64,CBS News,"""GOOD LUCK DADDY!"": Los Angeles Rams post sweet video from the players' families wishing them luck ahead of Super B… https://t.co/QQ5s5tvxnS",Mon Feb 04 00:19:47 +0000 2019,0.961,0.565,0.435,0.0
+65,CBS News,WATCH: Fiona the Hippo predicts which team will win the Super Bowl. 🏈 https://t.co/Hg3q9R2EOx https://t.co/rEmHjGSh5l,Mon Feb 04 00:00:39 +0000 2019,0.8271,0.355,0.645,0.0
+66,CBS News,SUPER BOWL LIII: Rock and Roll Hall of Famer #GladysKnight delivered the Star Spangled Banner to kick off the 2019… https://t.co/pYFLodSTV4,Sun Feb 03 23:44:59 +0000 2019,0.6841,0.188,0.812,0.0
+67,CBS News,Super Bowl LIII starts NOW. Follow along with our live updates. 🏈 https://t.co/5IYbrQsDwG https://t.co/OVnI87tc5u,Sun Feb 03 23:30:34 +0000 2019,0.5994,0.218,0.782,0.0
+68,CBS News,"RT @CBSSports: Super Bowl LIII is close to kick off. Watch LIVE on any of these devices.
+
+📺: CBS
+📱: Download the CBS Sports app 
+💻: Tap thi…",Sun Feb 03 23:26:22 +0000 2019,0.5994,0.126,0.874,0.0
+69,CBS News,KICK-OFF: Super Bowl LIII starts at 6:30 p.m. ET on CBS. Watch the New England Patriots and Los Angeles Rams face o… https://t.co/PF5Ve3C9wa,Sun Feb 03 23:23:54 +0000 2019,0.5994,0.151,0.849,0.0
+70,CBS News,Protests held outside NYC correctional facility with limited heat https://t.co/S1PPGtuU2f https://t.co/wiJfg5514a,Sun Feb 03 23:02:33 +0000 2019,-0.4215,0.0,0.703,0.297
+71,CBS News,CBS News poll: Football fans are divided on the use of instant replay https://t.co/HsGeqeoyqB https://t.co/HOo82fKu1j,Sun Feb 03 22:09:36 +0000 2019,0.0,0.0,1.0,0.0
+72,CBS News,RT @DavidBegnaud: ‘Spayathon’ is happening today and into next week in Puerto Rico - I spoke with Kitty Block of the @humanesociety about t…,Sun Feb 03 21:59:32 +0000 2019,-0.4404,0.0,0.879,0.121
+73,CBS News,Are two of the world's most trusted airlines cutting corners? Concerned mechanics have a warning for passengers. Se… https://t.co/EDBFxYDgZe,Sun Feb 03 21:50:12 +0000 2019,0.0591,0.15,0.665,0.185
+74,CBS News,Former MMA fighter facing murder charges escapes from prisoner van at McDonald's https://t.co/rGIZFzwaFw https://t.co/YTbRQUPfvU,Sun Feb 03 21:33:54 +0000 2019,-0.8481,0.138,0.402,0.46
+75,CBS News,"JUST IN: ICE arrests rapper 21 Savage, says he has been living illegally in the U.S. for more than a decade… https://t.co/wbNQcf2YmZ",Sun Feb 03 21:12:35 +0000 2019,-0.7096,0.0,0.763,0.237
+76,CBS News,The Super Bowl kicks off at 6:30 p.m. ET on CBS. Here's how to watch it: https://t.co/e604jGGLzF https://t.co/Dk7IOtJ5QM,Sun Feb 03 21:09:46 +0000 2019,0.5994,0.187,0.813,0.0
+77,CBS News,"RT @FaceTheNation: ""We'll come back if we have to. We have very fast airplanes, we have very good cargo planes,"" @realDonaldTrump told @mar…",Sun Feb 03 20:21:34 +0000 2019,0.4927,0.127,0.873,0.0
+78,CBS News,Linda Ronstadt quit performing years ago as Parkinson's disease made singing impossible. But she just released her… https://t.co/X6dOJ9BQSL,Sun Feb 03 19:59:46 +0000 2019,0.0,0.0,1.0,0.0
+79,CBS News,"RT @CBSSunday: You know the song, and the neighborhood. @SesameStreet is celebrating its 50th season this year 
+
+Sesame Street's official 8…",Sun Feb 03 19:46:11 +0000 2019,0.5719,0.156,0.844,0.0
+80,The New York Times,RT @cegoldbaum: Lights are back at MDC Brooklyn https://t.co/9xM1RtFLh0,Mon Feb 04 01:32:43 +0000 2019,0.0,0.0,1.0,0.0
+81,The New York Times,Scenes from the #SuperBowl https://t.co/LBio7bC6hM https://t.co/KXyZe0jlka,Mon Feb 04 01:25:57 +0000 2019,0.0,0.0,1.0,0.0
+82,The New York Times,"🏈At halftime, we have the second-lowest score (3-0) in Super Bowl history🏈 https://t.co/LBio7bC6hM",Mon Feb 04 01:19:12 +0000 2019,0.5994,0.245,0.755,0.0
+83,The New York Times,About $1 billion a week is spent in the U.S. to deal with preventable work-related musculoskeletal injuries. Here’s… https://t.co/U9LLucpdY5,Mon Feb 04 01:15:08 +0000 2019,0.0,0.0,1.0,0.0
+84,The New York Times,RT @NYTSports: Aaaand that concludes the second-lowest-scoring first half in #SuperBowl history. https://t.co/nQqyRTSu1P,Mon Feb 04 01:06:08 +0000 2019,0.0,0.0,1.0,0.0
+85,The New York Times,"We're detecting more than a whiff of '90s nostalgia in tonight's #SuperBowl ads: 
+
+- ""The Big Lebowski"" 
+- “I Know… https://t.co/O5PgtTcGVr",Mon Feb 04 00:54:03 +0000 2019,0.0,0.0,1.0,0.0
+86,The New York Times,"From shrimp and scallop dumplings to steamed whole fish with ginger and sesame, we've got recipes for Lunar and Chi… https://t.co/SFBtNmNWbB",Mon Feb 04 00:33:03 +0000 2019,-0.0772,0.0,0.939,0.061
+87,The New York Times,"🏈Super Bowl Update🏈 
+Stephen Gostkowski put the Patriots on the board with a 42-yard field goal in the second quart… https://t.co/7qNWz1uwgA",Mon Feb 04 00:31:11 +0000 2019,0.0,0.0,1.0,0.0
+88,The New York Times,"The notion that a dip in demand for computer chips could lead to a general downturn evokes memories of 2000, when o… https://t.co/4ZQWDcouCY",Mon Feb 04 00:31:04 +0000 2019,-0.128,0.0,0.93,0.07
+89,The New York Times,RT @katierogers: Entertainment provided at Trump’s Palm Beach golf club by Florida Atlantic University https://t.co/ZJM5RXOxku,Mon Feb 04 00:13:36 +0000 2019,0.4215,0.167,0.833,0.0
+90,The New York Times,RT @katierogers: It’s Super Bowl Sunday at Trump’s Palm Beach golf club. The halls are lined with signed “Apprentice” posters and magazine…,Mon Feb 04 00:11:36 +0000 2019,0.5994,0.157,0.843,0.0
+91,The New York Times,"In Opinion
+
+Leila Salazar-López writes, ""Mr. Bolsonaro’s rise to power will test companies’ promises to be responsi… https://t.co/hSooRIxyBi",Mon Feb 04 00:00:13 +0000 2019,0.3818,0.133,0.867,0.0
+92,The New York Times,The rapper 21 Savage had said he hailed from Atlanta but was an “unlawfully present United Kingdom national” who wa… https://t.co/gHvTZ9uYCH,Sun Feb 03 23:49:04 +0000 2019,0.4854,0.205,0.716,0.08
+93,The New York Times,"LIVE: Super Bowl analysis and updates
+
+🏈 LA Rams vs. New England Patriots 🏈https://t.co/LBio7bC6hM",Sun Feb 03 23:32:35 +0000 2019,0.5994,0.218,0.782,0.0
+94,The New York Times,RT @sapna: Coming up: our third @nytimes Super Bowl ads live briefing! Send me your rants and praise and follow along here. I’ll be talking…,Sun Feb 03 23:26:28 +0000 2019,0.7574,0.243,0.686,0.072
+95,The New York Times,After quitting watching football because of “the recent findings about the frequency with which concussions occur a… https://t.co/50FDnO6lyQ,Sun Feb 03 23:15:08 +0000 2019,0.0,0.0,1.0,0.0
+96,The New York Times,RT @NYTSports: 25 minutes from kickoff. Brush up on the keys for the Rams and the Patriots tonight in our live #SuperBowl briefing: https:/…,Sun Feb 03 23:09:29 +0000 2019,0.0,0.0,1.0,0.0
+97,The New York Times,"The basic egg salad sandwich has iterations all around the world. But at Konbi, a tiny restaurant in Los Angeles, t… https://t.co/Mh2bdo1NPX",Sun Feb 03 23:00:01 +0000 2019,0.0,0.0,1.0,0.0
+98,The New York Times,"At 33, Rams coach Sean McVay will be the youngest head coach in Super Bowl history. To put it mildly, the rest of t… https://t.co/yBmQuts3bM",Sun Feb 03 22:45:05 +0000 2019,0.5994,0.14,0.86,0.0
+99,The New York Times,"The Skittles musical, performed on Super Bowl Sunday, aims to be excruciatingly self-referential, metatheatrical to… https://t.co/bMTmCCFuvj",Sun Feb 03 22:30:06 +0000 2019,0.0,0.179,0.642,0.179
+100,Fox News,BREAKING: Federal appeals court rules against Trump administration on DACA https://t.co/KHnrNvEKAM,Thu Nov 08 19:18:44 +0000 2018,0.0,0.0,1.0,0.0
+101,Fox News,"Breaking News: Grand jury indicts captain of Missouri duck boat that sank in severe weather, killing 17 people https://t.co/ffOOgzRwdo",Thu Nov 08 17:02:25 +0000 2018,-0.6124,0.115,0.615,0.269
+102,Fox News,"JUST IN: Police identify gunman who opened fire inside California bar, killing 12 https://t.co/PvITYr54AX",Thu Nov 08 15:14:45 +0000 2018,-0.7783,0.0,0.638,0.362
+103,Fox News,JUST IN: Supreme Court Justice Ruth Bader Ginsburg fractures 3 ribs in fall https://t.co/9UM9hKTz4m,Thu Nov 08 14:22:51 +0000 2018,0.7906,0.389,0.611,0.0
+104,Fox News,"Sgt. Ron Helus was fatally shot when he responded to the mass shooting on Nov. 7 at a bar in Thousand Oaks, Califor… https://t.co/vOH3OWPN5S",Thu Nov 08 13:43:25 +0000 2018,-0.6369,0.0,0.833,0.167
+105,Fox News,Tom Homan: “It’s a tragedy each and every time.” https://t.co/dMV68Hfdz0 https://t.co/hrq51VJg7x,Thu Nov 08 13:35:03 +0000 2018,-0.6597,0.0,0.672,0.328
+106,Fox News,"People walk away from the scene in Thousand Oaks, Calif. where a gunman opened fire Wednesday.… https://t.co/O3Oo2iLL8O",Thu Nov 08 13:22:27 +0000 2018,-0.34,0.0,0.862,0.138
+107,Fox News,Teylor Whittler describes what she witnessed at California bar shooting https://t.co/dMV68Hfdz0 https://t.co/YznTZgQoYY,Thu Nov 08 12:56:20 +0000 2018,0.0,0.0,1.0,0.0
+108,Fox News,"An FBI agent talks to a potential witness as they stand near the scene in Thousand Oaks, Calif. where a gunman open… https://t.co/7QOmXNTYM0",Thu Nov 08 12:37:05 +0000 2018,0.0,0.0,1.0,0.0
+109,Fox News,Ventura County Fire Department Captain Stan Ziegler: “Hundreds of first responders responded initially to the scene… https://t.co/o4gArhmy4e,Thu Nov 08 12:25:14 +0000 2018,-0.34,0.0,0.87,0.13
+110,Fox News,"People comfort each other as they stand near the scene in Thousand Oaks, Calif. where a gunman opened fire during a… https://t.co/wPI4XSpirC",Thu Nov 08 12:06:14 +0000 2018,0.0258,0.105,0.795,0.1
+111,Fox News,"California bar shooting leaves 12 dead, including sheriff's sergeant, police say https://t.co/dMV68Hfdz0 https://t.co/WvjarPpwPV",Thu Nov 08 11:54:22 +0000 2018,-0.6486,0.0,0.736,0.264
+112,Fox News,"California bar shooting leaves 12 dead, including sheriff's sergeant, police say https://t.co/GqI77wMuYZ",Thu Nov 08 11:38:17 +0000 2018,-0.6486,0.0,0.719,0.281
+113,Fox News,"Sheriff's deputies speak to potential witnesses as they stand near the scene in Thousand Oaks, Calif., where a gunm… https://t.co/jPE8k9oQHr",Thu Nov 08 11:32:26 +0000 2018,0.0,0.0,1.0,0.0
+114,Fox News,13 dead in country music bar including gunman https://t.co/PvITYr54AX https://t.co/UURBIatqte,Thu Nov 08 11:26:46 +0000 2018,-0.6486,0.0,0.677,0.323
+115,Fox News,"12 dead in shooting at Thousand Oaks nightclub, police say https://t.co/PvITYr54AX https://t.co/o8Nf8WuJcZ",Thu Nov 08 11:18:08 +0000 2018,-0.6486,0.0,0.719,0.281
+116,Fox News,"Breaking News: At least 12 dead in shooting at Thousand Oaks nightclub, police say https://t.co/u6sVxdzHq5",Thu Nov 08 11:13:32 +0000 2018,-0.6486,0.0,0.765,0.235
+117,Fox News,.@CarleyShimkus is live with the ‘Fox News Update’ on Facebook Watch: https://t.co/hNrB8xzepH https://t.co/cQ9uxkjUIK,Thu Nov 08 11:12:14 +0000 2018,0.0,0.0,1.0,0.0
+118,Fox News,"Authorities deliver an update on the shooting in Thousand Oaks, California. (Courtesy: KABC) https://t.co/BtGxxIfNx5",Thu Nov 08 10:53:33 +0000 2018,0.0,0.0,1.0,0.0
+119,Fox News,Pastor Dimas Salaberrios on California shooting: “My immediate thoughts go out to the families. Because what’s happ… https://t.co/iowf5VOL2l,Thu Nov 08 10:36:12 +0000 2018,0.0,0.0,1.0,0.0
+120,CNN,Two people were killed and two others injured when a small plane crashed into a home on Sunday outside of Los Angel… https://t.co/rSXFDNAWjd,Mon Feb 04 01:33:24 +0000 2019,-0.802,0.0,0.725,0.275
+121,CNN,"Instead of sugary treats, fatty chips, or high-calorie sodas, a vending machine at this elementary school is filled… https://t.co/OJdVjWBIeI",Mon Feb 04 01:30:03 +0000 2019,0.0,0.0,1.0,0.0
+122,CNN,An 11-year-old girl began asking nursing home residents what three things in the world they wish they had right now… https://t.co/BsSv6lrZDA,Mon Feb 04 01:15:07 +0000 2019,0.4019,0.119,0.881,0.0
+123,CNN,The US government received its worst score since 2011 in a global survey measuring government corruption… https://t.co/0Qx0Zx8Cc0,Mon Feb 04 01:00:11 +0000 2019,-0.6249,0.0,0.785,0.215
+124,CNN,Trump says he'd have a hard time letting his son Barron play football https://t.co/nmtcSbryCN https://t.co/HiWo1psXbn,Mon Feb 04 00:45:05 +0000 2019,0.25,0.152,0.759,0.089
+125,CNN,Trump says use of military force in Venezuela is still on the table https://t.co/scIJiJ0JBE https://t.co/vhiOENuLmQ,Mon Feb 04 00:30:09 +0000 2019,0.0,0.0,1.0,0.0
+126,CNN,Here's who has called for Ralph Northam's resignation https://t.co/EilZxUubWJ https://t.co/Rt00OGlIEV,Mon Feb 04 00:15:06 +0000 2019,-0.296,0.0,0.804,0.196
+127,CNN,"A massive hole two-thirds the size of Manhattan has been discovered growing in an Antarctic glacier, signaling rapi… https://t.co/cHWFSwg9Pa",Mon Feb 04 00:00:13 +0000 2019,0.1779,0.091,0.909,0.0
+128,CNN,A nine-year conservation project on King Tutankhamun's tomb has finished https://t.co/nHNalg7IJM https://t.co/im0tZYJecK,Sun Feb 03 23:45:06 +0000 2019,0.0,0.0,1.0,0.0
+129,CNN,The most shocking part of the racist yearbook photo is what critics leave out | Analysis by John Blake… https://t.co/tWDxDvfoGY,Sun Feb 03 23:30:12 +0000 2019,-0.8553,0.0,0.591,0.409
+130,CNN,This CEO wants to make grocery shopping effortless https://t.co/Ng5MqYFu0V https://t.co/8j45AjjnU0,Sun Feb 03 23:15:00 +0000 2019,0.0,0.0,1.0,0.0
+131,CNN,What a Dixie Ribs joint owner taught me about forgiveness and reconciliation | By Johnita P. Due for @CNNOpinion… https://t.co/buWPVQKB3m,Sun Feb 03 23:00:19 +0000 2019,0.2732,0.11,0.89,0.0
+132,CNN,"ICE arrests rapper 21 Savage, says he's illegally present in US https://t.co/ummiB2UzXm https://t.co/9Iqzq6jagk",Sun Feb 03 22:44:13 +0000 2019,-0.7096,0.0,0.651,0.349
+133,CNN,"Axios: Since midterms, Trump has spent nearly 60% of his scheduled time in unstructured 'executive time'… https://t.co/ymWgzwopYH",Sun Feb 03 22:30:14 +0000 2019,0.0,0.0,1.0,0.0
+134,CNN,"These brands want to make your work clothes comfortable, functional and high-tech https://t.co/U6ZMK476BN https://t.co/e9IqTooxNh",Sun Feb 03 22:15:00 +0000 2019,0.5574,0.277,0.723,0.0
+135,CNN,Gov. Cuomo calls on DOJ to investigate power outage at Brooklyn detention center https://t.co/58xkvkhDim https://t.co/DT7awh0Qcb,Sun Feb 03 22:00:05 +0000 2019,-0.3612,0.0,0.848,0.152
+136,CNN,Sen. Richard Shelby: Bipartisan committee must listen to border security experts https://t.co/wKrVZKNIJV https://t.co/EjRzHSAW0o,Sun Feb 03 21:45:07 +0000 2019,0.34,0.167,0.833,0.0
+137,CNN,"Aid, assets top opposition priorities as Venezuelan power struggle trudges on https://t.co/dhRC1o4UNY https://t.co/QWPZVGWxb7",Sun Feb 03 21:30:04 +0000 2019,0.0516,0.222,0.633,0.146
+138,CNN,Pepsi is one of the biggest sponsors of Super Bowl 53 in Atlanta -- the home of Coca-Cola https://t.co/nvTmRMqYgD https://t.co/THEVsQ15gc,Sun Feb 03 21:15:00 +0000 2019,0.5994,0.17,0.83,0.0
+139,CNN,"Pentagon will deploy approximately 3,750 additional US forces to provide more support at southwest border… https://t.co/NEjoEnn8ap",Sun Feb 03 21:06:44 +0000 2019,0.4576,0.166,0.834,0.0
+140,BBC News (World),What's happening this week? https://t.co/Vw0u1tcLNQ,Mon Feb 04 01:14:30 +0000 2019,0.0,0.0,1.0,0.0
+141,BBC News (World),Brazil dam collapse: The crucial questions https://t.co/hj1wUnD8uO,Mon Feb 04 00:01:15 +0000 2019,-0.4939,0.0,0.652,0.348
+142,BBC News (World),21 savage: Rapper 'arrested by US immigration force' https://t.co/Cd3UEwIdoY,Sun Feb 03 21:34:17 +0000 2019,-0.7269,0.0,0.534,0.466
+143,BBC News (World),"RT @BBCSport: Kansas City Chiefs quarterback Patrick Mahomes wins the 2018 NFL Most Valuable Player award 👏👏👏
+
+He's the youngest player to…",Sun Feb 03 16:53:53 +0000 2019,0.8969,0.364,0.636,0.0
+144,BBC News (World),In pictures: Rodrigo Duterte and Kim Jong-un impersonators cause a stir https://t.co/8aBxIWXJUn,Sun Feb 03 16:38:12 +0000 2019,0.0,0.0,1.0,0.0
+145,BBC News (World),"RT @BBCNews: A black cat invaded the pitch at the game between Everton and Wolves — and BBC commentator John Acres did not disappoint 😹⚽
+
+[…",Sun Feb 03 15:49:21 +0000 2019,0.3089,0.089,0.911,0.0
+146,BBC News (World),Venezuela crisis: US sending aid 'at Guaidó's request' https://t.co/Toj6fRXP4x,Sun Feb 03 15:09:17 +0000 2019,-0.6249,0.0,0.661,0.339
+147,BBC News (World),"It's #SuperBowl Sunday
+
+Watch our episode on how Atlanta is preparing the city for an increase in sex trafficking t… https://t.co/nl7ULTMVeE",Sun Feb 03 15:04:51 +0000 2019,0.3182,0.103,0.897,0.0
+148,BBC News (World),No traffic in Addis Ababa as Ethiopia marks Car Free Day https://t.co/FZqr3LXsz5,Sun Feb 03 13:01:22 +0000 2019,0.2732,0.213,0.645,0.142
+149,BBC News (World),Yemi Osinbajo helicopter crash: Nigeria's VP thanks crew https://t.co/imhX6LNg4C,Sun Feb 03 12:52:13 +0000 2019,0.0516,0.23,0.556,0.214
+150,BBC News (World),Australia weather: Townsville warned as floodgates open https://t.co/Nu9P2G9zSO,Sun Feb 03 12:06:04 +0000 2019,-0.2732,0.0,0.769,0.231
+151,BBC News (World),Brooklyn prison: Power and heat failure sparks protest https://t.co/4RpcSLikkp,Sun Feb 03 11:00:16 +0000 2019,-0.8225,0.0,0.411,0.589
+152,BBC News (World),World War One grenade among potatoes at Hong Kong crisp factory https://t.co/4VHwkgZJDm,Sun Feb 03 10:17:15 +0000 2019,-0.5994,0.0,0.738,0.262
+153,BBC News (World),In Pictures: Pain and ecstasy at the Lagos marathon https://t.co/loRiAm8pMX,Sun Feb 03 10:03:20 +0000 2019,0.1531,0.257,0.526,0.217
+154,BBC News (World),Robert Mueller: America's most mysterious public figure https://t.co/VpVFQXsHKH,Sun Feb 03 08:37:05 +0000 2019,0.0,0.0,1.0,0.0
+155,BBC News (World),Nauru migrants: Last four children to leave island for US https://t.co/6qUxXzC32c,Sun Feb 03 08:28:30 +0000 2019,-0.0516,0.0,0.893,0.107
+156,BBC News (World),Colombia Farc: Dissident leader Rodrigo Cadete killed in military operation https://t.co/N1XDAPdhr3,Sun Feb 03 05:10:31 +0000 2019,-0.6705,0.0,0.69,0.31
+157,BBC News (World),Pope Francis to embark on historic visit to UAE https://t.co/RATHxyvGFs,Sun Feb 03 04:20:24 +0000 2019,0.0,0.0,1.0,0.0
+158,BBC News (World),US fake university: India protests after students arrested https://t.co/5n1c33ijvV,Sun Feb 03 00:59:57 +0000 2019,-0.7964,0.0,0.426,0.574
+159,BBC News (World),"Obituary: Kim Bok-dong, the South Korean 'comfort woman' https://t.co/r3zRXyoAEk",Sun Feb 03 00:02:03 +0000 2019,0.3612,0.238,0.762,0.0
+160,CBS News,Maroon 5 kicks off the Pepsi #SuperBowl LIII halftime show with hit “Harder to Breathe.” 🎶 https://t.co/siePGOQKf1 https://t.co/qLOjyUZdXx,Mon Feb 04 01:22:04 +0000 2019,0.0,0.0,1.0,0.0
+161,CBS News,Have you ever wondered how the Vince Lombardi Super Bowl trophy makes its way to the field? Here's a look at the tr… https://t.co/Hfvv1vaU48,Mon Feb 04 01:20:00 +0000 2019,0.5994,0.151,0.849,0.0
+162,CBS News,"JUST IN: The New England #Patriots lead the Los Angeles #Rams, 3 to 0, as the #SuperBowl halftime show is about to… https://t.co/lfF9scpaVj",Mon Feb 04 01:01:18 +0000 2019,0.0,0.0,1.0,0.0
+163,CBS News,"Plane crash kills 2 people, causes damage in Yorba Linda, California https://t.co/lV7FyanIGg https://t.co/slrM4xk5GK",Mon Feb 04 00:39:39 +0000 2019,-0.8555,0.0,0.489,0.511
+164,CBS News,"""GOOD LUCK DADDY!"": Los Angeles Rams post sweet video from the players' families wishing them luck ahead of Super B… https://t.co/QQ5s5tvxnS",Mon Feb 04 00:19:47 +0000 2019,0.961,0.565,0.435,0.0
+165,CBS News,WATCH: Fiona the Hippo predicts which team will win the Super Bowl. 🏈 https://t.co/Hg3q9R2EOx https://t.co/rEmHjGSh5l,Mon Feb 04 00:00:39 +0000 2019,0.8271,0.355,0.645,0.0
+166,CBS News,SUPER BOWL LIII: Rock and Roll Hall of Famer #GladysKnight delivered the Star Spangled Banner to kick off the 2019… https://t.co/pYFLodSTV4,Sun Feb 03 23:44:59 +0000 2019,0.6841,0.188,0.812,0.0
+167,CBS News,Super Bowl LIII starts NOW. Follow along with our live updates. 🏈 https://t.co/5IYbrQsDwG https://t.co/OVnI87tc5u,Sun Feb 03 23:30:34 +0000 2019,0.5994,0.218,0.782,0.0
+168,CBS News,"RT @CBSSports: Super Bowl LIII is close to kick off. Watch LIVE on any of these devices.
+
+📺: CBS
+📱: Download the CBS Sports app 
+💻: Tap thi…",Sun Feb 03 23:26:22 +0000 2019,0.5994,0.126,0.874,0.0
+169,CBS News,KICK-OFF: Super Bowl LIII starts at 6:30 p.m. ET on CBS. Watch the New England Patriots and Los Angeles Rams face o… https://t.co/PF5Ve3C9wa,Sun Feb 03 23:23:54 +0000 2019,0.5994,0.151,0.849,0.0
+170,CBS News,Protests held outside NYC correctional facility with limited heat https://t.co/S1PPGtuU2f https://t.co/wiJfg5514a,Sun Feb 03 23:02:33 +0000 2019,-0.4215,0.0,0.703,0.297
+171,CBS News,CBS News poll: Football fans are divided on the use of instant replay https://t.co/HsGeqeoyqB https://t.co/HOo82fKu1j,Sun Feb 03 22:09:36 +0000 2019,0.0,0.0,1.0,0.0
+172,CBS News,RT @DavidBegnaud: ‘Spayathon’ is happening today and into next week in Puerto Rico - I spoke with Kitty Block of the @humanesociety about t…,Sun Feb 03 21:59:32 +0000 2019,-0.4404,0.0,0.879,0.121
+173,CBS News,Are two of the world's most trusted airlines cutting corners? Concerned mechanics have a warning for passengers. Se… https://t.co/EDBFxYDgZe,Sun Feb 03 21:50:12 +0000 2019,0.0591,0.15,0.665,0.185
+174,CBS News,Former MMA fighter facing murder charges escapes from prisoner van at McDonald's https://t.co/rGIZFzwaFw https://t.co/YTbRQUPfvU,Sun Feb 03 21:33:54 +0000 2019,-0.8481,0.138,0.402,0.46
+175,CBS News,"JUST IN: ICE arrests rapper 21 Savage, says he has been living illegally in the U.S. for more than a decade… https://t.co/wbNQcf2YmZ",Sun Feb 03 21:12:35 +0000 2019,-0.7096,0.0,0.763,0.237
+176,CBS News,The Super Bowl kicks off at 6:30 p.m. ET on CBS. Here's how to watch it: https://t.co/e604jGGLzF https://t.co/Dk7IOtJ5QM,Sun Feb 03 21:09:46 +0000 2019,0.5994,0.187,0.813,0.0
+177,CBS News,"RT @FaceTheNation: ""We'll come back if we have to. We have very fast airplanes, we have very good cargo planes,"" @realDonaldTrump told @mar…",Sun Feb 03 20:21:34 +0000 2019,0.4927,0.127,0.873,0.0
+178,CBS News,Linda Ronstadt quit performing years ago as Parkinson's disease made singing impossible. But she just released her… https://t.co/X6dOJ9BQSL,Sun Feb 03 19:59:46 +0000 2019,0.0,0.0,1.0,0.0
+179,CBS News,"RT @CBSSunday: You know the song, and the neighborhood. @SesameStreet is celebrating its 50th season this year 
+
+Sesame Street's official 8…",Sun Feb 03 19:46:11 +0000 2019,0.5719,0.156,0.844,0.0
+180,The New York Times,RT @cegoldbaum: Lights are back at MDC Brooklyn https://t.co/9xM1RtFLh0,Mon Feb 04 01:32:43 +0000 2019,0.0,0.0,1.0,0.0
+181,The New York Times,Scenes from the #SuperBowl https://t.co/LBio7bC6hM https://t.co/KXyZe0jlka,Mon Feb 04 01:25:57 +0000 2019,0.0,0.0,1.0,0.0
+182,The New York Times,"🏈At halftime, we have the second-lowest score (3-0) in Super Bowl history🏈 https://t.co/LBio7bC6hM",Mon Feb 04 01:19:12 +0000 2019,0.5994,0.245,0.755,0.0
+183,The New York Times,About $1 billion a week is spent in the U.S. to deal with preventable work-related musculoskeletal injuries. Here’s… https://t.co/U9LLucpdY5,Mon Feb 04 01:15:08 +0000 2019,0.0,0.0,1.0,0.0
+184,The New York Times,RT @NYTSports: Aaaand that concludes the second-lowest-scoring first half in #SuperBowl history. https://t.co/nQqyRTSu1P,Mon Feb 04 01:06:08 +0000 2019,0.0,0.0,1.0,0.0
+185,The New York Times,"We're detecting more than a whiff of '90s nostalgia in tonight's #SuperBowl ads: 
+
+- ""The Big Lebowski"" 
+- “I Know… https://t.co/O5PgtTcGVr",Mon Feb 04 00:54:03 +0000 2019,0.0,0.0,1.0,0.0
+186,The New York Times,"From shrimp and scallop dumplings to steamed whole fish with ginger and sesame, we've got recipes for Lunar and Chi… https://t.co/SFBtNmNWbB",Mon Feb 04 00:33:03 +0000 2019,-0.0772,0.0,0.939,0.061
+187,The New York Times,"🏈Super Bowl Update🏈 
+Stephen Gostkowski put the Patriots on the board with a 42-yard field goal in the second quart… https://t.co/7qNWz1uwgA",Mon Feb 04 00:31:11 +0000 2019,0.0,0.0,1.0,0.0
+188,The New York Times,"The notion that a dip in demand for computer chips could lead to a general downturn evokes memories of 2000, when o… https://t.co/4ZQWDcouCY",Mon Feb 04 00:31:04 +0000 2019,-0.128,0.0,0.93,0.07
+189,The New York Times,RT @katierogers: Entertainment provided at Trump’s Palm Beach golf club by Florida Atlantic University https://t.co/ZJM5RXOxku,Mon Feb 04 00:13:36 +0000 2019,0.4215,0.167,0.833,0.0
+190,The New York Times,RT @katierogers: It’s Super Bowl Sunday at Trump’s Palm Beach golf club. The halls are lined with signed “Apprentice” posters and magazine…,Mon Feb 04 00:11:36 +0000 2019,0.5994,0.157,0.843,0.0
+191,The New York Times,"In Opinion
+
+Leila Salazar-López writes, ""Mr. Bolsonaro’s rise to power will test companies’ promises to be responsi… https://t.co/hSooRIxyBi",Mon Feb 04 00:00:13 +0000 2019,0.3818,0.133,0.867,0.0
+192,The New York Times,The rapper 21 Savage had said he hailed from Atlanta but was an “unlawfully present United Kingdom national” who wa… https://t.co/gHvTZ9uYCH,Sun Feb 03 23:49:04 +0000 2019,0.4854,0.205,0.716,0.08
+193,The New York Times,"LIVE: Super Bowl analysis and updates
+
+🏈 LA Rams vs. New England Patriots 🏈https://t.co/LBio7bC6hM",Sun Feb 03 23:32:35 +0000 2019,0.5994,0.218,0.782,0.0
+194,The New York Times,RT @sapna: Coming up: our third @nytimes Super Bowl ads live briefing! Send me your rants and praise and follow along here. I’ll be talking…,Sun Feb 03 23:26:28 +0000 2019,0.7574,0.243,0.686,0.072
+195,The New York Times,After quitting watching football because of “the recent findings about the frequency with which concussions occur a… https://t.co/50FDnO6lyQ,Sun Feb 03 23:15:08 +0000 2019,0.0,0.0,1.0,0.0
+196,The New York Times,RT @NYTSports: 25 minutes from kickoff. Brush up on the keys for the Rams and the Patriots tonight in our live #SuperBowl briefing: https:/…,Sun Feb 03 23:09:29 +0000 2019,0.0,0.0,1.0,0.0
+197,The New York Times,"The basic egg salad sandwich has iterations all around the world. But at Konbi, a tiny restaurant in Los Angeles, t… https://t.co/Mh2bdo1NPX",Sun Feb 03 23:00:01 +0000 2019,0.0,0.0,1.0,0.0
+198,The New York Times,"At 33, Rams coach Sean McVay will be the youngest head coach in Super Bowl history. To put it mildly, the rest of t… https://t.co/yBmQuts3bM",Sun Feb 03 22:45:05 +0000 2019,0.5994,0.14,0.86,0.0
+199,The New York Times,"The Skittles musical, performed on Super Bowl Sunday, aims to be excruciatingly self-referential, metatheatrical to… https://t.co/bMTmCCFuvj",Sun Feb 03 22:30:06 +0000 2019,0.0,0.179,0.642,0.179
+200,Fox News,"Las Vegas shooting survivors were inside Thousand Oaks bar, friends say https://t.co/nW9TLTON9n",Thu Nov 08 10:30:40 +0000 2018,0.4767,0.22,0.78,0.0
+201,Fox News,"UPDATE: At least 11 wounded in shooting at California bar, gunman dead, police say https://t.co/awRowfbeRy",Thu Nov 08 10:24:08 +0000 2018,-0.6486,0.0,0.765,0.235
+202,Fox News,Authorities confirm gunman is dead @FoxFriendsFirst https://t.co/PvITYr54AX https://t.co/a2EIH1EWmA,Thu Nov 08 10:16:43 +0000 2018,-0.6486,0.0,0.619,0.381
+203,Fox News,Ventura County Sheriff’s Office Captain Garo Kuredjian: “I don’t know what the condition of any of the victims are… https://t.co/96mT27WHZv,Thu Nov 08 10:10:46 +0000 2018,-0.3182,0.0,0.892,0.108
+204,Fox News,"At least 11 shot, including sheriff’s deputy — Jonathan Hunt has the latest from the scene of the California shooti… https://t.co/sLzLyMsrn5",Thu Nov 08 10:03:44 +0000 2018,0.0,0.0,1.0,0.0
+205,Fox News,Witnesses describe chaotic scene during Thousand Oaks shooting https://t.co/qE8RqKGjz3,Thu Nov 08 09:54:50 +0000 2018,-0.4939,0.0,0.714,0.286
+206,Fox News,UPDATE: At least 11 people hurt in California shooting @FoxFriendsFirst https://t.co/PvITYr54AX https://t.co/RGWIkaxF4f,Thu Nov 08 09:46:19 +0000 2018,-0.5267,0.0,0.764,0.236
+207,Fox News,"Daniel Hoffman on California shooting: “This still an active shooter scene, and the focus is on dealing with that a… https://t.co/PiwHhe5HuX",Thu Nov 08 09:40:57 +0000 2018,0.4019,0.119,0.881,0.0
+208,Fox News,"Former Las Vegas Metro Police Lt. Randy Sutton: “Those who respond to this show incredible bravery, because they ar… https://t.co/idcJJuVRMP",Thu Nov 08 09:31:36 +0000 2018,0.4939,0.144,0.856,0.0
+209,Fox News,"Authorities deliver a briefing on a shooting in Thousand Oaks, California. (Courtesy: KCBS) https://t.co/5VGZz3rDIL",Thu Nov 08 09:25:02 +0000 2018,0.0,0.0,1.0,0.0
+210,Fox News,"Mass shooting at California bar, @HeatherChilders &amp; @JackieibanezFNC have the latest @FoxFriendsFirst… https://t.co/8c8H5LUFCu",Thu Nov 08 09:18:00 +0000 2018,0.0,0.0,1.0,0.0
+211,Fox News,Tesla names Robyn Denholm as Chairman to replace Elon Musk (via @FoxBusiness) https://t.co/SKjBXxUdOD,Thu Nov 08 09:10:00 +0000 2018,0.0,0.0,1.0,0.0
+212,Fox News,@marcthiessen: “The president today made very clear that he wants to cut deals with the Democrats. And quite frankl… https://t.co/3eA2dn4vQh,Thu Nov 08 09:01:00 +0000 2018,0.2006,0.126,0.783,0.091
+213,Fox News,".@TuckerCarlson: ""While everyone else obsessed over dossiers and FISA warrants, Sessions worried about the mission… https://t.co/LSvnOqZMsq",Thu Nov 08 09:00:00 +0000 2018,-0.4404,0.0,0.782,0.218
+214,Fox News,"Wife's dying wish was for him to clean up bloody crime scene, suspect claims: reports https://t.co/7Wxd39jDEB",Thu Nov 08 08:51:00 +0000 2018,-0.4939,0.216,0.44,0.344
+215,Fox News,DEVELOPING: Massive police response after reports of shooting at California nightclub https://t.co/awRowfsPJ6,Thu Nov 08 08:41:00 +0000 2018,0.0,0.0,1.0,0.0
+216,Fox News,".@senatemajldr Mitch McConnell said Wednesday that Democrats and Republicans will have to address health care ""on a… https://t.co/XxmktKMZ7F",Thu Nov 08 08:31:00 +0000 2018,0.4939,0.158,0.842,0.0
+217,Fox News,"Joseph diGenova on who could replace AG Sessions: ""@ChrisChristie would have the full confidence of @POTUS, which i… https://t.co/lt485btkXG",Thu Nov 08 08:21:00 +0000 2018,0.5106,0.155,0.845,0.0
+218,Fox News,Dem @GavinNewsom's wild victory party in LA features controversial rapper @common https://t.co/V9SSpxOUH7,Thu Nov 08 08:06:00 +0000 2018,0.2263,0.186,0.69,0.124
+219,Fox News,".@jasoninthehouse: “Attorney General @jeffsessions is a patriot. He was a good Republican, and I applaud him for hi… https://t.co/MRia8l8dOM",Thu Nov 08 08:01:00 +0000 2018,0.7096,0.296,0.704,0.0
+220,CNN,"Glaciers in the Canadian Arctic have melted enough to reveal land that was hidden for the last 40,000 years or more… https://t.co/JQVptcbNxz",Sun Feb 03 21:00:11 +0000 2019,0.0,0.0,1.0,0.0
+221,CNN,Louis C.K. joked about the Parkland shooting. A father whose son was killed hit back. https://t.co/MmwPdOejRZ https://t.co/bWNtNI860t,Sun Feb 03 20:45:06 +0000 2019,-0.4939,0.111,0.673,0.216
+222,CNN,"In 2021, you could stay at the world's first space hotel -- provided you have a spare $9.5 million:… https://t.co/48CDwTnJ5f",Sun Feb 03 20:30:00 +0000 2019,0.0,0.0,1.0,0.0
+223,CNN,More than 40 mummies discovered at Egypt burial site https://t.co/jVDdjqg4Wr https://t.co/lWiAIG7QrA,Sun Feb 03 20:15:06 +0000 2019,0.0,0.0,1.0,0.0
+224,CNN,.@mvp86hinesward is outside Mercedes-Benz Stadium in Atlanta and provides a preview of tonight’s Super Bowl between… https://t.co/tjDfkQ0U8H,Sun Feb 03 20:04:37 +0000 2019,0.5994,0.206,0.794,0.0
+225,CNN,"Starting in the first half of this year, Samsung phones, tablets and wearable devices will be packaged in paper, pu… https://t.co/VksVITMgme",Sun Feb 03 20:00:04 +0000 2019,0.0,0.0,1.0,0.0
+226,CNN,Ralph Northam aimed to stem resignation calls in his press conference. He failed. https://t.co/wkM5eepXbQ https://t.co/ojOqd2sx4C,Sun Feb 03 19:45:06 +0000 2019,-0.6705,0.0,0.703,0.297
+227,CNN,Boeing is making an autonomous air vehicle. That’s right: no pilot https://t.co/l6WHCs7wCp https://t.co/hAOiyjUojO,Sun Feb 03 19:31:00 +0000 2019,-0.296,0.0,0.845,0.155
+228,CNN,President Trump said he has not thought about a pardon for Roger Stone. https://t.co/DcwdVoZwaY https://t.co/nUoYd1qrjX,Sun Feb 03 19:15:06 +0000 2019,-0.2411,0.0,0.869,0.131
+229,CNN,President Trump says he would send US troops back to Syria should ISIS regain strength. https://t.co/hMPpXz46Wq https://t.co/R14FOHFTTv,Sun Feb 03 19:00:11 +0000 2019,0.4939,0.167,0.833,0.0
+230,CNN,A mild traumatic brain injury -- such as from a car crash or violent assault -- may be linked to a higher risk of P… https://t.co/NNeNFqB5qI,Sun Feb 03 18:45:06 +0000 2019,-0.9584,0.0,0.472,0.528
+231,CNN,"After one woman paid for hotel rooms for homeless people in Chicago during the  polar vortex, an army of strangers… https://t.co/bs73HWpnMf",Sun Feb 03 18:30:11 +0000 2019,0.0,0.0,1.0,0.0
+232,CNN,"The US Navy performed its first all-female flyover to honor Captain Rosemary Mariner, the first woman to fly a tact… https://t.co/xebtnQrMl5",Sun Feb 03 18:15:00 +0000 2019,0.4939,0.144,0.856,0.0
+233,CNN,Our politicians should be allowed to evolve | By Dean Obeidallah for @CNNOpinion https://t.co/OWfYJRuRMd https://t.co/ujk2EWqT7T,Sun Feb 03 18:00:15 +0000 2019,0.0,0.0,1.0,0.0
+234,CNN,The argument over coffee's health impact dates back centuries. Here's a look at coffee's controversial history and… https://t.co/KXrjvZTWVY,Sun Feb 03 17:45:00 +0000 2019,-0.5106,0.0,0.777,0.223
+235,CNN,The Washington Post will air a commercial during the Super Bowl paying tribute to the importance of journalism and… https://t.co/XrOTgJfceK,Sun Feb 03 17:30:06 +0000 2019,0.7506,0.274,0.726,0.0
+236,CNN,"America, don't abandon Afghanistan again | By Abdul Rahman Rahmani and Jason Criss Howk for @CNNOpinion… https://t.co/y9ibKZdYu1",Sun Feb 03 17:15:09 +0000 2019,0.3412,0.138,0.862,0.0
+237,CNN,"Punxsutawney Phil emerged from his burrow at Gobbler’s Knob in Pennsylvania and did not see his shadow, predicting… https://t.co/9IPBWQzmcG",Sun Feb 03 17:00:00 +0000 2019,0.0,0.0,1.0,0.0
+238,CNN,Trump says use of military force in Venezuela is still on the table https://t.co/NX4spYpaKR https://t.co/44uUyU1BSh,Sun Feb 03 16:45:06 +0000 2019,0.0,0.0,1.0,0.0
+239,CNN,McAuliffe predicts Northam 'will do the right thing' https://t.co/qN3OHyhMxR https://t.co/vYoA4FcPpU,Sun Feb 03 16:30:07 +0000 2019,0.0,0.0,1.0,0.0
+240,BBC News (World),Central African Republic agrees peace deal with rebel groups https://t.co/k5Zcfj3fYh,Sat Feb 02 22:52:35 +0000 2019,0.5719,0.381,0.504,0.115
+241,BBC News (World),Venezuela crisis: Why US sanctions on will hurt https://t.co/SaXbzjFBXw,Sat Feb 02 18:24:47 +0000 2019,-0.8176,0.0,0.483,0.517
+242,BBC News (World),Egypt mummies: New tombs found in Minya https://t.co/7kN9V3c2rX,Sat Feb 02 17:07:57 +0000 2019,0.0,0.0,1.0,0.0
+243,BBC News (World),"#GroundhogDay
+
+The moment groundhog Punxsutawney Phil ""predicted"" an early spring in Pennsylvania today https://t.co/ldb7z9rjhF",Sat Feb 02 15:38:36 +0000 2019,0.0,0.0,1.0,0.0
+244,BBC News (World),Virginia Governor Ralph Northam urged to quit over racist yearbook photo https://t.co/OjMYXOlzTl,Sat Feb 02 15:35:36 +0000 2019,-0.6124,0.0,0.733,0.267
+245,BBC News (World),Syria war: Aleppo building collapse kills 11 https://t.co/3C0YcHvBwu,Sat Feb 02 15:33:17 +0000 2019,-0.891,0.0,0.321,0.679
+246,BBC News (World),Leopard cub found in passenger's luggage at Indian airport https://t.co/D0WeqLZqNP,Sat Feb 02 14:10:38 +0000 2019,0.0,0.0,1.0,0.0
+247,BBC News (World),Yellow-vest protests: French demonstrators condemn police violence https://t.co/YQZB81jvvV,Sat Feb 02 13:49:52 +0000 2019,-0.8225,0.0,0.368,0.632
+248,BBC News (World),"Will Take a Knee find its place at the #superbowl? 
+
+[Tap to expand] https://t.co/UkzpJ9jLUR https://t.co/E6bZiOQc1H",Sat Feb 02 13:09:23 +0000 2019,0.0,0.0,1.0,0.0
+249,BBC News (World),"Explore one of Venezuela’s most notorious prisons with our immersive guide
+
+https://t.co/Cpi4e1PLyT https://t.co/cxc7KiKvdk",Sat Feb 02 12:54:49 +0000 2019,-0.4927,0.0,0.79,0.21
+250,BBC News (World),Ivory Coast ex-President Gbagbo to go to Belgium after ICC acquittal https://t.co/vAvEPAclxr,Sat Feb 02 12:34:12 +0000 2019,0.0,0.0,1.0,0.0
+251,BBC News (World),Colin Kaepernick mural demolished on Super Bowl weekend https://t.co/SErAlQBghU,Sat Feb 02 12:28:56 +0000 2019,0.5994,0.328,0.672,0.0
+252,BBC News (World),"Australia weather: Monsoon rains cause floods in Queensland, forcing people (and pets) to evacuate
+
+[Tap to expand]… https://t.co/Cng3aWq2LE",Sat Feb 02 12:11:36 +0000 2019,0.0,0.0,1.0,0.0
+253,BBC News (World),"RT @BBCAfrica: Many women in Madagascar's prisons have been accused of being accomplices in crimes committed by husbands, sons or brothers.…",Sat Feb 02 11:21:18 +0000 2019,-0.0258,0.09,0.815,0.094
+254,BBC News (World),"RT @BBCNews: Meghan, the Duchess of Sussex, writes personal messages of love on bananas for street sex workers to find in their food parcel…",Sat Feb 02 11:20:39 +0000 2019,0.6369,0.154,0.846,0.0
+255,BBC News (World),"The deaths of four rugby players in France have sparked calls for reforms to make the game safer 
+
+[Tap to expand]… https://t.co/Hc6GPKHz5f",Sat Feb 02 11:08:14 +0000 2019,0.4215,0.118,0.882,0.0
+256,BBC News (World),Venezuela crisis: Juan Guaidó plans major nationwide protests https://t.co/U8g1ST0wwI,Sat Feb 02 11:04:18 +0000 2019,-0.7184,0.0,0.538,0.462
+257,BBC News (World),"Rise (and fall) of the machines? 🤖
+
+Researchers have created a robot that can play Jenga 
+
+[Tap to expand]… https://t.co/jSoRPKPHVG",Sat Feb 02 10:21:10 +0000 2019,0.5267,0.196,0.804,0.0
+258,BBC News (World),Irish Ferries ordered to pay compensation over cancellations https://t.co/oeP4DBQB1q,Sat Feb 02 10:17:48 +0000 2019,-0.1027,0.0,0.851,0.149
+259,BBC News (World),INF nuclear treaty: Russia follows US in leaving pact https://t.co/05PZXpo0vS,Sat Feb 02 09:54:48 +0000 2019,0.0,0.0,1.0,0.0
+260,CBS News,CBS News poll says most Americans do not want Preident Trump to declare a national emergency over border wall fundi… https://t.co/oo2SbnBZ7S,Sun Feb 03 19:19:34 +0000 2019,-0.4257,0.0,0.825,0.175
+261,CBS News,"RT @CBSThisMorning: As @MsGladysKnight finishes singing the national anthem at the #SuperBowl, the @USAirForce @AFThunderbirds will roar ov…",Sun Feb 03 19:00:22 +0000 2019,0.0,0.0,1.0,0.0
+262,CBS News,The Super Bowl airs tonight on CBS at 6:30 p.m. ET. Follow all our pregame coverage here: https://t.co/NXj0hTJGj1 https://t.co/wGAUQI91Cq,Sun Feb 03 18:59:42 +0000 2019,0.5994,0.178,0.822,0.0
+263,CBS News,Peanut allergies could soon be a thing of the past https://t.co/II4KJmwNKf https://t.co/r8amZ4tQnf,Sun Feb 03 18:39:53 +0000 2019,0.0,0.0,1.0,0.0
+264,CBS News,"President Trump calls football ""dangerous"" and says he'd have a ""hard time"" letting son Barron play… https://t.co/SqefWyrFCg",Sun Feb 03 18:20:01 +0000 2019,-0.1027,0.0,0.915,0.085
+265,CBS News,RT @CBSThisMorning: SUPER CITY SHOWDOWN: #Patriots and #Rams supporters think their team has what it takes to win the #SuperBowl. But how d…,Sun Feb 03 18:08:32 +0000 2019,0.7324,0.264,0.736,0.0
+266,CBS News,Read the full transcript of President Trump's interview with @margbrennan on @FaceTheNation https://t.co/a4Tz7zByB8 https://t.co/oyMosz43s4,Sun Feb 03 17:39:43 +0000 2019,0.0,0.0,1.0,0.0
+267,CBS News,CBS News poll asks footballf fans for their call on how instant replay should be used https://t.co/8OhWRSmt02 https://t.co/A24acxhdt6,Sun Feb 03 17:19:39 +0000 2019,0.0,0.0,1.0,0.0
+268,CBS News,RT @FaceTheNation: .@JBsportscaster breaks down the controversial no-call in the Saints-Rams game. He says the debate over using instant re…,Sun Feb 03 17:01:44 +0000 2019,-0.2023,0.0,0.913,0.087
+269,CBS News,"RT @FaceTheNation: When asked if he would make special counsel Robert Mueller’s report public, @realDonaldTrump says “that’s up to the atto…",Sun Feb 03 16:48:02 +0000 2019,0.4019,0.119,0.881,0.0
+270,CBS News,"RT @FaceTheNation: On whether he would let his son Barron play football, @realDonaldTrump says, “If he wanted to? Yes. Would I steer him th…",Sun Feb 03 16:18:16 +0000 2019,0.6249,0.195,0.805,0.0
+271,CBS News,"RT @FaceTheNation: “I have intel people, but that doesn’t mean I have to agree,” @realDonaldTrump says about his intelligence chiefs’ asses…",Sun Feb 03 16:02:36 +0000 2019,0.631,0.179,0.821,0.0
+272,CBS News,"RT @FaceTheNation: President Trump says he likes having Acting Secretaries in his Cabinet because, “It's easier to make moves when they're…",Sun Feb 03 15:51:22 +0000 2019,0.6808,0.228,0.772,0.0
+273,CBS News,RT @FaceTheNation: .@realDonaldTrump says “we’ll come back if we have to” when @margbrennan asks about a potential resurgence of ISIS in Ir…,Sun Feb 03 15:43:45 +0000 2019,0.0,0.0,1.0,0.0
+274,CBS News,"Would President Trump shut down the government again later this month? ""I don't take anything off the table,"" he te… https://t.co/qbmOUnNGP6",Sun Feb 03 15:35:09 +0000 2019,0.0,0.0,1.0,0.0
+275,CBS News,".@FaceTheNation starts now. Watch @margbrennan interview President Trump about football, race, foreign policy, the… https://t.co/2FiorV408Q",Sun Feb 03 15:29:46 +0000 2019,0.0,0.0,1.0,0.0
+276,CBS News,"RT @CBSSunday: It's Sam Elliott season
+
+The veteran character actor, a first-time Oscar-nominee for ""A Star Is Born,"" has been living a sur…",Sun Feb 03 15:12:23 +0000 2019,0.0,0.0,1.0,0.0
+277,CBS News,"Two winter storms slam California, with a third expected to dump even more rain Sunday https://t.co/oL9vl3OvWi https://t.co/Orc2jJgyLb",Sun Feb 03 15:09:37 +0000 2019,-0.6369,0.0,0.729,0.271
+278,CBS News,Kansas City Chief quarterback Patrick Mahomes wins NFL MVP award https://t.co/OnXZ4IgfVD https://t.co/l4scQFiuGJ,Sun Feb 03 14:49:47 +0000 2019,0.802,0.419,0.581,0.0
+279,CBS News,"President Trump tells @margbrennan he doesn't ""have to agree"" with his intelligence chiefs on global threats. Watch… https://t.co/fNduWW7FG1",Sun Feb 03 14:29:50 +0000 2019,-0.2047,0.135,0.652,0.213
+280,The New York Times,"""To many people, the idea of speed limits feel like an affront to masculinity, like we’re getting softer, we’re deg… https://t.co/q8pT6aVAHF",Sun Feb 03 22:15:06 +0000 2019,0.6124,0.208,0.792,0.0
+281,The New York Times,Behind the Lion Air crash off Indonesia: The story of a modification to the Boeing 737’s flight control system show… https://t.co/SeTRXMmJiZ,Sun Feb 03 22:05:04 +0000 2019,-0.4019,0.0,0.876,0.124
+282,The New York Times,Not into the Super Bowl? Perhaps you'd like to read about some Superb Owls instead. https://t.co/HFfKZmYc4v,Sun Feb 03 21:45:05 +0000 2019,0.5352,0.29,0.572,0.138
+283,The New York Times,"2 historically black neighborhoods lie in the shadow of the Atlanta stadium hosting this year’s Super Bowl, but the… https://t.co/FU3RXNJLUU",Sun Feb 03 21:31:04 +0000 2019,0.3506,0.12,0.88,0.0
+284,The New York Times,"While HBO's biggest hit ever, ""Game of Thrones,"" is 3 months away from its end, the cable channel is planning a big… https://t.co/b0BzYJjQr9",Sun Feb 03 21:15:09 +0000 2019,0.0,0.0,1.0,0.0
+285,The New York Times,"A man was shot and died on a Queens subway platform after a fight on a Manhattan-bound 7 train, police said https://t.co/Lv46sVynqP",Sun Feb 03 21:05:03 +0000 2019,-0.7351,0.0,0.708,0.292
+286,The New York Times,The spate of sorrys is indicative of a crowded field of Democratic candidates who understand that the party’s incre… https://t.co/65a8BAzXyf,Sun Feb 03 21:00:19 +0000 2019,0.0,0.0,1.0,0.0
+287,The New York Times,The Muslim Community Patrol sees itself as a neighborhood watch. But there was alarm after its patrol cars were spo… https://t.co/JZdt53qe2v,Sun Feb 03 20:45:05 +0000 2019,-0.4767,0.0,0.86,0.14
+288,The New York Times,Can the Rams pull off a Super Bowl upset against the 5-time champion Patriots? Here’s our prediction for how the ga… https://t.co/m04JgD8VwT,Sun Feb 03 20:30:07 +0000 2019,0.7351,0.275,0.634,0.092
+289,The New York Times,"This Vietnamese braised beef stew is not so different from a traditional French pot au feu, but spiced with lemongr… https://t.co/hkMMyEHG7j",Sun Feb 03 20:15:03 +0000 2019,0.0,0.0,1.0,0.0
+290,The New York Times,"In Opinion
+
+Pamela Paul writes, ""When you reach your breaking point, boredom teaches you to respond constructively,… https://t.co/ThnHGPCETN",Sun Feb 03 20:00:07 +0000 2019,-0.296,0.057,0.825,0.119
+291,The New York Times,"As a rules analyst, Gene Steratore will be explaining the intricacies of the NFL rule book to millions of fans watc… https://t.co/yUuQOSe3yy",Sun Feb 03 19:45:06 +0000 2019,0.0,0.0,1.0,0.0
+292,The New York Times,"""I think the NFL is a great product, but I really think that as far as my son — well, I've heard NFL players saying… https://t.co/FErxlli9Rt",Sun Feb 03 19:33:03 +0000 2019,0.6369,0.198,0.802,0.0
+293,The New York Times,"RT @anniecorreal: Here’s what happened today when protestors and family members stormed MDC Brooklyn, a federal jail largely without electr…",Sun Feb 03 19:15:08 +0000 2019,0.0,0.0,1.0,0.0
+294,The New York Times,"A gender-bending blues performer, Gladys Bentley confronted male entitlement and sexual abuse in her lyrics, and be… https://t.co/I20CK9wuZi",Sun Feb 03 19:15:08 +0000 2019,-0.7184,0.0,0.714,0.286
+295,The New York Times,"People protesting the lack of heat and electricity at a federal jail in Brooklyn stormed the facility, then were ap… https://t.co/Bzzzc4qRTA",Sun Feb 03 19:05:08 +0000 2019,-0.6249,0.0,0.779,0.221
+296,The New York Times,"Visit Chongli, China, to see firsthand how the world’s most populous country is working overtime to become a compet… https://t.co/v3zGeBHhBj",Sun Feb 03 19:00:14 +0000 2019,0.0,0.0,1.0,0.0
+297,The New York Times,"RT @nytimesarts: What's on TV tonight: There’s truly something for everyone with the Super Bowl, the Puppy Bowl, the Kitten Bowl and TLC’s…",Sun Feb 03 18:45:06 +0000 2019,0.7783,0.245,0.755,0.0
+298,The New York Times,Breaking News: Pope Francis arrived in Abu Dhabi for a 3-day trip. He is the first pontiff to visit the Arabian Pen… https://t.co/2F6Sgl3Tap,Sun Feb 03 18:38:22 +0000 2019,0.0,0.0,1.0,0.0
+299,The New York Times,Video showing a black woman being dragged from a train by transit officers in Sweden is raising questions about the… https://t.co/PqQYJ33Tlg,Sun Feb 03 18:31:51 +0000 2019,-0.0516,0.0,0.938,0.062
+300,Fox News,"Devotees lit earthen lamps in Ayodhya, India as part of Diwali celebrations, also known as a festival of lights, on… https://t.co/uWGZnrkvqD",Thu Nov 08 07:51:00 +0000 2018,0.5719,0.207,0.793,0.0
+301,Fox News,".@TGowdySC on Jeff Sessions resigning: ""It was going to happen...He's been a proverbial dead man walking for severa… https://t.co/ojKL4KMFTz",Thu Nov 08 07:41:00 +0000 2018,-0.7351,0.0,0.721,0.279
+302,Fox News,Mob chants threats outside @TuckerCarlson’s DC home https://t.co/IJE8m5gjWi,Thu Nov 08 07:31:00 +0000 2018,-0.4215,0.0,0.714,0.286
+303,Fox News,".@TuckerCarlson: ""Supporting marriage and children is the best, maybe the only way, for Republicans or any of us to… https://t.co/fqPwC8XTaY",Thu Nov 08 07:21:00 +0000 2018,0.7964,0.283,0.717,0.0
+304,Fox News,.@KennedyNation: Dems in 2020 better without Nancy https://t.co/54vTCiffG4,Thu Nov 08 07:16:00 +0000 2018,0.4404,0.293,0.707,0.0
+305,Fox News,Battleground-state Dems who opposed Kavanaugh all defeated https://t.co/guqMSVjd74,Thu Nov 08 07:11:00 +0000 2018,-0.4767,0.0,0.693,0.307
+306,Fox News,".@Jim_Jordan on his run for House GOP leader: “We have to match [@POTUS’s] intensity, that’s what I want to do. If… https://t.co/2VOW1ykCsI",Thu Nov 08 07:01:00 +0000 2018,0.0772,0.061,0.939,0.0
+307,Fox News,.@senatemajldr: Dem Votes Against Kavanaugh Were a 'Godsend' to GOP in Midterms https://t.co/ietr8sP4EQ,Thu Nov 08 06:51:00 +0000 2018,0.0,0.0,1.0,0.0
+308,Fox News,.@marcthiessen: “There’s lots of things that Democrats could take a stand on that they find inherently unacceptable… https://t.co/c7UFDzFd60,Thu Nov 08 06:41:00 +0000 2018,0.0,0.0,1.0,0.0
+309,Fox News,".@DarrellIssa on the Mueller probe: ""Two years is a long time to look for a crime you can't prove.""… https://t.co/plX9kxpSXy",Thu Nov 08 06:36:00 +0000 2018,-0.5423,0.0,0.829,0.171
+310,Fox News,"Second teen dies of gunshot wound after Oklahoma mom's rampage, authorities say https://t.co/VUQxsa3mq3",Thu Nov 08 06:31:00 +0000 2018,0.0,0.0,1.0,0.0
+311,Fox News,.@marcthiessen: “The president today made very clear that he wants to cut deals with the Democrats. And quite frank… https://t.co/MGVdJQVfUt,Thu Nov 08 06:21:00 +0000 2018,0.2006,0.126,0.783,0.091
+312,Fox News,"Florida Highway Patrol cruiser hits 142 mph in pursuit, catches on fire https://t.co/GqWKI45AAm",Thu Nov 08 06:11:00 +0000 2018,-0.34,0.0,0.833,0.167
+313,Fox News,Democratic strategist @LeslieMarshall: “What we need is not a wall — and not a wall that we can’t afford — but comp… https://t.co/TzRWVJQeVv,Thu Nov 08 06:01:00 +0000 2018,0.0,0.0,1.0,0.0
+314,Fox News,"Sex offender gets 22 years after missing boy, 14, found in his room at halfway house, authorities say https://t.co/sDd0VQzob4",Thu Nov 08 05:51:00 +0000 2018,-0.5719,0.0,0.783,0.217
+315,Fox News,".@POTUS touts Senate gains, @LelandVittert breaks down the results @foxnewsnight https://t.co/VMzif8sgHH",Thu Nov 08 05:41:00 +0000 2018,0.3182,0.192,0.72,0.088
+316,Fox News,Former Kavanaugh colleague among group being considered to replace Sessions as AG: reports https://t.co/HxAlDZx2Mg,Thu Nov 08 05:31:00 +0000 2018,0.0,0.0,1.0,0.0
+317,Fox News,"Too close to call: Meticulous vote count transpiring in Arizona Senate race, @aacuna1 reports @foxnewsnight https://t.co/DV6EX4Ogxe",Thu Nov 08 05:26:00 +0000 2018,0.0,0.0,1.0,0.0
+318,Fox News,"Former SEAL Mocked by 'SNL' Wins TX House Seat, Calls for More Vets in Congress https://t.co/T0PAhopphH… https://t.co/qhS5BVOE2U",Thu Nov 08 05:21:01 +0000 2018,0.6841,0.298,0.603,0.099
+319,Fox News,South Carolina voter told to remove 'Trump' shirt in order to vote: report https://t.co/xWY2EdSpDF,Thu Nov 08 05:11:00 +0000 2018,0.0,0.0,1.0,0.0
+320,CNN,Trump says he'd have a hard time letting his son Barron play football https://t.co/gVrVF82FXC https://t.co/bHKvLDIxfJ,Sun Feb 03 16:15:09 +0000 2019,0.25,0.152,0.759,0.089
+321,CNN,The House Democratic Women's Working Group is inviting women to wear white to President Trump's State of the Union… https://t.co/zbTI1XcBGJ,Sun Feb 03 16:01:08 +0000 2019,0.3182,0.108,0.892,0.0
+322,CNN,Here's who has called for Ralph Northam's resignation https://t.co/gGb2dtYrf2 https://t.co/RNjfvsapkL,Sun Feb 03 15:31:03 +0000 2019,-0.296,0.0,0.804,0.196
+323,CNN,"The usual Super Bowl suspects like Coke, Pepsi, Pringles and Doritos are back with new ads that feature a host of c… https://t.co/3nkiCBoSH0",Sun Feb 03 15:31:00 +0000 2019,0.6124,0.23,0.683,0.086
+324,CNN,"CNN’s @FareedZakaria: ""I understand that important segments of the Western working class are under great pressure,… https://t.co/SPaqZcITJq",Sun Feb 03 15:18:14 +0000 2019,0.7096,0.282,0.718,0.0
+325,CNN,The US government received its worst score since 2011 in a global survey measuring government corruption… https://t.co/KGXdWm10VE,Sun Feb 03 15:01:06 +0000 2019,-0.6249,0.0,0.785,0.215
+326,CNN,“It’s troubling to all of us but I think there’s got to be real good communication between the President and the Di… https://t.co/izrHhR68NP,Sun Feb 03 14:48:01 +0000 2019,0.3818,0.148,0.766,0.086
+327,CNN,GOP Sen. Richard Shelby says it’s up to President Trump to declare a national emergency but adds the “preferable wa… https://t.co/MJ3tBb2Uj4,Sun Feb 03 14:41:38 +0000 2019,-0.2023,0.0,0.913,0.087
+328,CNN,"Chances are “slim” to cut a deal to keep government open if Speaker Pelosi and President Trump remain at odds, GOP… https://t.co/ba0e4h96Dq",Sun Feb 03 14:36:49 +0000 2019,-0.0772,0.079,0.83,0.092
+329,CNN,Former Virginia Gov. @TerryMcAuliffe says he’d “like to do it” when asked whether he will run for president in 2020… https://t.co/Rjrqac9hdG,Sun Feb 03 14:34:34 +0000 2019,0.0,0.0,1.0,0.0
+330,CNN,The argument over coffee's health impact dates back centuries. Here's a look at coffee's controversial history and… https://t.co/UnGG8DDscS,Sun Feb 03 14:31:00 +0000 2019,-0.5106,0.0,0.777,0.223
+331,CNN,".@jaketapper on Virginia Gov. Ralph Northam: “Has he also been a racist?”
+
+Former Virginia Gov. @TerryMcAuliffe: “I… https://t.co/00hHX0ptx9",Sun Feb 03 14:22:56 +0000 2019,0.0,0.0,1.0,0.0
+332,CNN,"Terry McAuliffe on Gov. Ralph Northam: “I can’t understand what’s going on but I do know this: Ralph is a good, mor… https://t.co/ORPUr7h7br",Sun Feb 03 14:17:19 +0000 2019,0.5927,0.161,0.839,0.0
+333,CNN,Former Virginia Gov. Terry McAuliffe on Gov. Ralph Northam: “Once that picture with the blackface and the klansman… https://t.co/iGLzCNDJ0P,Sun Feb 03 14:12:21 +0000 2019,0.0,0.0,1.0,0.0
+334,CNN,“The first time in American political history that a politician attempted to explain his innocence regarding one ra… https://t.co/qOnAmosE14,Sun Feb 03 14:09:29 +0000 2019,0.3818,0.133,0.867,0.0
+335,CNN,Here's how stocks performed under each president from Reagan to Trump https://t.co/Ab7YOqNEFF https://t.co/j2HBeN051u,Sun Feb 03 14:01:08 +0000 2019,0.0,0.0,1.0,0.0
+336,CNN,Why you can't miss Puppy Bowl 2019 | By Alice Driver for @CNNOpinion https://t.co/3tLaZdIeyo https://t.co/7TCoi9KVfi,Sun Feb 03 13:46:05 +0000 2019,0.1139,0.1,0.9,0.0
+337,CNN,"London's Gatwick Airport is testing out an electric, autonomous robot named Stan that parks customers' cars for the… https://t.co/1dAhEkut3J",Sun Feb 03 13:31:00 +0000 2019,0.0,0.0,1.0,0.0
+338,CNN,The Washington Post will air a commercial during the Super Bowl paying tribute to the importance of journalism and… https://t.co/YEg1GqnfkJ,Sun Feb 03 13:01:05 +0000 2019,0.7506,0.274,0.726,0.0
+339,CNN,The US government has given CNN an inside look at the Pentagon’s work on “deepfakes” — those manipulated videos tha… https://t.co/6t0SRHkpmv,Sun Feb 03 12:31:00 +0000 2019,-0.3818,0.0,0.88,0.12
+340,BBC News (World),"Serving up change 🍽️
+
+This hotel is full of ideas to fight food waste
+
+[Tap to expand] https://t.co/qC6djBQPXw https://t.co/ntJG0oxQe0",Sat Feb 02 09:52:20 +0000 2019,-0.6597,0.0,0.795,0.205
+341,BBC News (World),Australia weather: Monsoon rains cause floods in Queensland https://t.co/UUsMpztujX,Sat Feb 02 09:17:38 +0000 2019,0.0,0.0,1.0,0.0
+342,BBC News (World),Chile escape: Ex-guerrilla Patricio Ortiz Montenegro returns to Santiago https://t.co/XoyG2cNhbN,Sat Feb 02 04:48:21 +0000 2019,0.1779,0.159,0.841,0.0
+343,BBC News (World),Why has the West pressed the mute button on Africa? https://t.co/lhm0hcGrUS,Sat Feb 02 00:57:56 +0000 2019,0.0,0.0,1.0,0.0
+344,BBC News (World),Roger Stone case: Judge considers gagging order https://t.co/TxD4bMlYMn,Sat Feb 02 00:36:26 +0000 2019,0.0,0.0,1.0,0.0
+345,BBC News (World),Virginia Governor Ralph Northam sorry for racist yearbook photo https://t.co/ATHMk2P779,Sat Feb 02 00:01:39 +0000 2019,-0.6486,0.0,0.602,0.398
+346,BBC News (World),Chanda Kochhar: The rise and fall of India's celebrated CEO https://t.co/9NfdOk1l5y,Fri Feb 01 22:30:19 +0000 2019,0.5719,0.27,0.73,0.0
+347,BBC News (World),Venezuela crisis: Why Russia has so much to lose https://t.co/IK0FVHnsUy,Fri Feb 01 22:14:03 +0000 2019,-0.7943,0.0,0.531,0.469
+348,BBC News (World),"Obituary: Susan Hiller, the artist of neglected memories https://t.co/KcI4TbpPqz",Fri Feb 01 22:09:29 +0000 2019,-0.5267,0.0,0.702,0.298
+349,BBC News (World),"RT @bbcrugbyunion: 🏉 FULL TIME 🏉 
+
+France 19-24 Wales
+
+Wales come back from 16-0 down at the break to open their Six Nations campaign with…",Fri Feb 01 21:51:34 +0000 2019,0.0,0.0,1.0,0.0
+350,BBC News (World),Sausage museum on site of Nazi death camp annex put on hold https://t.co/lTQB1Dzncr,Fri Feb 01 21:34:14 +0000 2019,-0.5994,0.0,0.755,0.245
+351,BBC News (World),Senator Elizabeth Warren apologises to Cherokee Nation for DNA test https://t.co/GV6gIAtrqX,Fri Feb 01 21:31:53 +0000 2019,0.2023,0.153,0.847,0.0
+352,BBC News (World),"Daron Wint, Washington DC 'mansion murderer', gets life sentence https://t.co/tqMC6D2EWx",Fri Feb 01 20:28:54 +0000 2019,0.0772,0.126,0.874,0.0
+353,BBC News (World),Belgian ex-king Albert II refuses DNA in love-child case https://t.co/1STzi64gdb,Fri Feb 01 19:43:53 +0000 2019,0.0,0.0,1.0,0.0
+354,BBC News (World),Woman accused of buying winning lotto ticket with stolen credit card https://t.co/28ZpcGX4gI,Fri Feb 01 19:18:04 +0000 2019,0.1531,0.309,0.412,0.278
+355,BBC News (World),US stops all aid to Palestinians in West Bank and Gaza https://t.co/ITvaJqNDBh,Fri Feb 01 19:18:00 +0000 2019,-0.1531,0.0,0.873,0.127
+356,BBC News (World),Detroit police officer demoted over 'black girl magic' Snapchat post https://t.co/SbjKSSBB0q,Fri Feb 01 18:15:51 +0000 2019,0.0,0.0,1.0,0.0
+357,BBC News (World),Japan abused child: Apology over death of Mia Kurihara https://t.co/TsQrtUe47Z,Fri Feb 01 18:00:22 +0000 2019,-0.8481,0.072,0.361,0.566
+358,BBC News (World),Holocaust survivor Harry Bibring dies after giving educational talk https://t.co/beBRCEYgcn,Fri Feb 01 17:48:08 +0000 2019,0.5994,0.38,0.62,0.0
+359,BBC News (World),Brazil dam: Startling pictures of Brumadinho collapse https://t.co/8zmlklMnzb,Fri Feb 01 17:35:25 +0000 2019,-0.4404,0.124,0.571,0.305
+360,CBS News,Pepsi injects fizz into Coke rivalry during Super Bowl week https://t.co/bXunKxq9Er https://t.co/fpkIkQ99tP,Sun Feb 03 14:03:02 +0000 2019,0.5994,0.262,0.738,0.0
+361,CBS News,"The next industrial revolution is already here, and it's in your home https://t.co/YvPmPHY00f https://t.co/SqGiRinLJL",Sun Feb 03 13:48:02 +0000 2019,0.0,0.0,1.0,0.0
+362,CBS News,Super Bowl 2019: Rams invite widow and son of Borderline shooting hero https://t.co/RqEOefZP9N https://t.co/CxlK6GQJEI,Sun Feb 03 13:33:02 +0000 2019,0.8442,0.453,0.547,0.0
+363,CBS News,"Transcript: President Trump on ""Face the Nation,"" February 3, 2019 https://t.co/hFfKcOPn7d https://t.co/B7T2xJADQJ",Sun Feb 03 13:30:11 +0000 2019,0.0,0.0,1.0,0.0
+364,CBS News,"New Jersey man charged after video shows him allegedly faking ""slip and fall"" at work https://t.co/yU78muOMoh https://t.co/F1ug5keVJ0",Sun Feb 03 13:18:03 +0000 2019,-0.5574,0.0,0.765,0.235
+365,CBS News,"Disney to host its first official LGBTQ pride event, ""Magical Pride"" https://t.co/hioCcfwVKE https://t.co/20Tvgym1sd",Sun Feb 03 13:03:02 +0000 2019,0.5859,0.304,0.696,0.0
+366,CBS News,Meet the woman who rented hotel rooms for homeless in Chicago during dangerous polar vortex https://t.co/VuWawoMa4e https://t.co/aiJg6RYR9X,Sun Feb 03 12:48:02 +0000 2019,-0.4767,0.0,0.838,0.162
+367,CBS News,$6 billion to be bet on Super Bowl LIII -- not all of it on game itself https://t.co/t62nJLl7l5 https://t.co/PoHoKUZ5QW,Sun Feb 03 12:33:03 +0000 2019,0.5994,0.178,0.822,0.0
+368,CBS News,How marriage became a status symbol for millennials https://t.co/lCg5uMBhJt https://t.co/1C5YRPsMCD,Sun Feb 03 12:18:02 +0000 2019,0.0,0.0,1.0,0.0
+369,CBS News,"Possum was living in unused, $1 million taxpayer-funded bus https://t.co/QM2jR3WSOT https://t.co/lBijqA2jjB",Sun Feb 03 12:03:03 +0000 2019,0.0,0.0,1.0,0.0
+370,CBS News,"The cold snap that swept through the Midwest has some benefits, expert says https://t.co/PSufJzEty2 https://t.co/Pa5CrhmmZr",Sun Feb 03 11:48:02 +0000 2019,0.3818,0.157,0.843,0.0
+371,CBS News,"Girls can now join Scouts BSA, once known as Boy Scouts https://t.co/YqeU781Tdj https://t.co/1TCbZYhZ3p",Sun Feb 03 11:33:03 +0000 2019,0.296,0.155,0.845,0.0
+372,CBS News,Critically ill football fans get their wish to attend Super Bowl LIII https://t.co/7IE2l0XM6o https://t.co/jdSLmsWVHk,Sun Feb 03 11:18:02 +0000 2019,0.5859,0.324,0.539,0.137
+373,CBS News,Walmart offers paid sick leave to its 1.1 million hourly workers https://t.co/7iph7B5X1V https://t.co/2seL54x8Ep,Sun Feb 03 11:03:04 +0000 2019,-0.5423,0.0,0.71,0.29
+374,CBS News,Super Bowl Monday could cost companies roughly $4 billion https://t.co/7vYeqMGL6s https://t.co/dsV94FB0U1,Sun Feb 03 10:48:02 +0000 2019,0.5994,0.281,0.719,0.0
+375,CBS News,Patriots twins will make history when they play together in the Super Bowl https://t.co/dM9SIQ2E5g https://t.co/AkdAdNVQj8,Sun Feb 03 10:33:02 +0000 2019,0.743,0.326,0.674,0.0
+376,CBS News,"Social media platforms ""used for evil and need to get fixed,"" leading journalist says https://t.co/bIlrWtuHAZ https://t.co/mVOpe79zWk",Sun Feb 03 10:18:02 +0000 2019,-0.6597,0.0,0.773,0.227
+377,CBS News,Schumer aide asked to leave position over “inappropriate encounters” https://t.co/dwsOLeztUo https://t.co/hXFPHtvvme,Sun Feb 03 10:03:04 +0000 2019,-0.0516,0.0,0.893,0.107
+378,CBS News,Black Hawk helicopter and bomb-sniffing dogs: How Atlanta is protecting the Super Bowl https://t.co/Fz7ucj7X2v https://t.co/xGlq2mDWRv,Sun Feb 03 09:48:02 +0000 2019,0.5994,0.218,0.782,0.0
+379,CBS News,"Cardi B declined offer to perform at Super Bowl halftime with ""mixed feelings"" https://t.co/25OTgvnqOm https://t.co/XXxw80EGp7",Sun Feb 03 09:33:02 +0000 2019,0.5994,0.231,0.769,0.0
+380,The New York Times,"In Opinion
+
+Frank Bruni writes of Tony Romo's NFL predictions, ""His verified foresight proves his genuine insight."" https://t.co/wm7JLxQ9lh",Sun Feb 03 18:15:06 +0000 2019,0.0,0.0,1.0,0.0
+381,The New York Times,President Trump would not commit in an interview aired Sunday to making public the results of the special counsel’s… https://t.co/1z09CKJ1Cm,Sun Feb 03 18:01:32 +0000 2019,0.2052,0.12,0.797,0.084
+382,The New York Times,"A brutal game got them hooked on painkillers. In retirement, they battle addiction. The opioid crisis courses throu… https://t.co/fZDdiKbaEi",Sun Feb 03 17:45:03 +0000 2019,-0.8957,0.0,0.581,0.419
+383,The New York Times,"As Gov. Ralph Northam offered shifting accounts about a racist photograph in his yearbook, political discussions ap… https://t.co/rUURZnl4GE",Sun Feb 03 17:30:04 +0000 2019,-0.6124,0.0,0.8,0.2
+384,The New York Times,"The United States Navy conducted its first flyover using all female pilots to honor Capt. Rosemary Mariner, the fir… https://t.co/z4qNJbSmUw",Sun Feb 03 17:15:07 +0000 2019,0.7184,0.25,0.75,0.0
+385,The New York Times,"In honor of the centennial of Jackie Robinson’s birth on Jan. 31, 1919, here are 100 photos of an icon https://t.co/MSn1RP4US3",Sun Feb 03 17:00:17 +0000 2019,0.4939,0.138,0.862,0.0
+386,The New York Times,"In Opinion
+
+Porter Fox writes, ""With the outlook for winter so dim, it is surprising, shocking even, that the ski i… https://t.co/j3HrTEcgWb",Sun Feb 03 16:45:06 +0000 2019,-0.1531,0.085,0.806,0.109
+387,The New York Times,RT @nytimesworld: Attacks by Jewish settlers increased by 50 percent last year and threaten to ignite the West Bank. https://t.co/AGXVkn9n21,Sun Feb 03 16:31:17 +0000 2019,-0.5267,0.085,0.691,0.224
+388,The New York Times,The U.S. will accept the last remaining refugee and asylum-seeker children being held on the remote island of Nauru… https://t.co/cwx7vQWPYw,Sun Feb 03 16:15:08 +0000 2019,0.3818,0.12,0.88,0.0
+389,The New York Times,"RT @AsteadWesley: New w/ @melbournecoal: From Warren to Biden and Gillibrand + Tulsi, 2020 Dems are v sorry for past rhetoric/policies. How…",Sun Feb 03 16:00:47 +0000 2019,-0.0772,0.0,0.936,0.064
+390,The New York Times,Boeing wanted to revamp their 737 to be more fuel efficient and better compete with rival Airbus. Now there are que… https://t.co/txBOH5gXAW,Sun Feb 03 15:51:48 +0000 2019,0.7165,0.23,0.77,0.0
+391,The New York Times,Virginia Gov. Ralph Northam spoke of hopes for racial reconciliation and unity on the night of his 2017 election vi… https://t.co/8Fy0lkaI7o,Sun Feb 03 15:47:56 +0000 2019,0.4215,0.123,0.877,0.0
+392,The New York Times,"""I have so many words on my heart that I want to say, but the most important thing I can say is thank you so much,… https://t.co/3zKtIuaPEa",Sun Feb 03 15:45:50 +0000 2019,0.7218,0.242,0.758,0.0
+393,The New York Times,“My mother’s furs are her insistence on public elegance in a world frequently inhospitable to her. It is a point of… https://t.co/ApAt21hCgt,Sun Feb 03 15:00:13 +0000 2019,0.4767,0.14,0.86,0.0
+394,The New York Times,"How much is too much toothpaste for a 3-year-old? Professionals suggest no more than a pea-size amount, but a CDC s… https://t.co/m9kMG6s3Qb",Sun Feb 03 15:00:09 +0000 2019,-0.1531,0.0,0.918,0.082
+395,The New York Times,"""We no longer believe he can effectively serve as the governor of Virginia and that he must resign,"" Senators Mark… https://t.co/U9u2EHaHJE",Sun Feb 03 14:30:09 +0000 2019,0.1779,0.12,0.788,0.091
+396,The New York Times,"In Opinion
+
+@DLeonhardt writes, ""If you could have grown up as a fan at any time and in any place, what would you c… https://t.co/rD2YqxfyOX",Sun Feb 03 14:15:04 +0000 2019,0.3182,0.091,0.909,0.0
+397,The New York Times,RT @nytimesarts: Can you remember a time before Google Image Search and Street View? Someone in every place had to take the first photograp…,Sun Feb 03 13:47:34 +0000 2019,0.0,0.0,1.0,0.0
+398,The New York Times,"During the 2016 campaign, Donald Trump asked to borrow millions from Deutsche Bank, a loan request that was never d… https://t.co/u6qRs50dk8",Sun Feb 03 13:30:08 +0000 2019,0.0,0.0,1.0,0.0
+399,The New York Times,RT @NYTSports: These four cities might not be feeling it on Super Bowl Sunday. https://t.co/FWIrWnHzjw,Sun Feb 03 13:15:05 +0000 2019,0.5469,0.213,0.712,0.075
+400,Fox News,.@POTUS: “Hopefully we can all work together next year to continue delivering for the American people.”… https://t.co/FdLczQZN4g,Thu Nov 08 05:01:00 +0000 2018,0.0,0.0,1.0,0.0
+401,Fox News,Former US Attorney Harry Litman on Whitaker &amp; Mueller probe: “I think most people think it’s unlikely that he would… https://t.co/6W1eHbZ7zZ,Thu Nov 08 04:55:00 +0000 2018,0.0,0.0,1.0,0.0
+402,Fox News,Pete Davidson's 'SNL' castmate Kenan Thompson talks Dan Crenshaw joke: 'They are figuring out a way to right that w… https://t.co/MlIJF907FK,Thu Nov 08 04:50:00 +0000 2018,0.296,0.104,0.896,0.0
+403,Fox News,".@jasoninthehouse: “Attorney General @jeffsessions is a patriot. He was a good Republican, and I applaud him for hi… https://t.co/lqmOqmHcJZ",Thu Nov 08 04:45:00 +0000 2018,0.7096,0.296,0.704,0.0
+404,Fox News,"Tom Dupree on Acting Attorney General Matthew Whitaker: “Calls for him to recuse from Russia, I think, are meritles… https://t.co/74TWeQngjg",Thu Nov 08 04:35:00 +0000 2018,0.0,0.0,1.0,0.0
+405,Fox News,"Cabinet shakeup expected after @jeffsessions pushed out, @edhenry reports @foxnewsnight https://t.co/6UTwyCpZRV https://t.co/MY7kH6s4T7",Thu Nov 08 04:25:00 +0000 2018,-0.1531,0.0,0.873,0.127
+406,Fox News,"New reactions to Sessions resignation, Catherine Herridge has the story @foxnewsnight https://t.co/6UTwyCHBgv https://t.co/FaiATyMSgC",Thu Nov 08 04:14:15 +0000 2018,-0.296,0.0,0.845,0.155
+407,Fox News,MLB star @Bharper3407 rejects $300M offer from Nationals: Reports (via @FoxBusiness) https://t.co/Bgfoyi7fNH,Thu Nov 08 04:05:00 +0000 2018,-0.4939,0.0,0.775,0.225
+408,Fox News,Doug Schoen: Trump shouldn’t have fired Jeff Sessions – here’s why https://t.co/0ITTpZyqyx,Thu Nov 08 03:55:00 +0000 2018,-0.5574,0.0,0.735,0.265
+409,Fox News,"Joseph diGenova on who could replace AG Sessions: ""@ChrisChristie would have the full confidence of @POTUS, which i… https://t.co/3eoxyIurd3",Thu Nov 08 03:52:26 +0000 2018,0.5106,0.155,0.845,0.0
+410,Fox News,‘Brady Bunch’ cast to take part in TV home’s renovation: report https://t.co/rebtV4qkql,Thu Nov 08 03:48:00 +0000 2018,0.0,0.0,1.0,0.0
+411,Fox News,".@TuckerCarlson: Dems' Election Message Was All 'Trump', No Substance https://t.co/CscvHQkfAX",Thu Nov 08 03:42:00 +0000 2018,-0.296,0.0,0.804,0.196
+412,Fox News,"11-year-old in North Carolina charged with putting needles in Halloween candy, police say https://t.co/Dm3F07wpIt",Thu Nov 08 03:35:00 +0000 2018,-0.2023,0.0,0.878,0.122
+413,Fox News,Rhino rescue? Scientists may hold key to saving northern white rhinoceros from extinction  https://t.co/VUifTtCbTk,Thu Nov 08 03:29:00 +0000 2018,0.5106,0.202,0.798,0.0
+414,Fox News,"RT @FoxBusiness: Rick Scott: ""Socialism will not happen in our nation, and it's not going to happen under my watch."" https://t.co/CLNOuNnGNo",Thu Nov 08 03:23:02 +0000 2018,0.0,0.0,1.0,0.0
+415,Fox News,"Democrat Colin Allred, who unseated Rep. Pete Sessions, won't say if he'll back Pelosi https://t.co/mNox8bKgiA",Thu Nov 08 03:23:00 +0000 2018,0.0,0.0,1.0,0.0
+416,Fox News,Surveillance video shows Michigan woman reportedly reversing car into store https://t.co/tJr2cUsZ8a,Thu Nov 08 03:16:01 +0000 2018,0.0,0.0,1.0,0.0
+417,Fox News,".@senatemajldr Mitch McConnell said Wednesday that Democrats and Republicans will have to address health care ""on a… https://t.co/xF54bEhvOA",Thu Nov 08 03:11:00 +0000 2018,0.4939,0.158,0.842,0.0
+418,Fox News,Woman finds her diamond before proposal and 'ring shames' herself https://t.co/uoLHUxHeBD,Thu Nov 08 03:04:00 +0000 2018,-0.0772,0.17,0.638,0.191
+419,Fox News,McDonald's customers’ $5M lawsuit over unwanted Quarter Pounder cheese dismissed by judge https://t.co/yBEvL4cAFK,Thu Nov 08 03:01:47 +0000 2018,-0.4215,0.0,0.743,0.257
+420,CNN,Our long-held notions of boys as being more stoic and girls as being more expressive may lead Americans to overrate… https://t.co/JR8NEnTxme,Sun Feb 03 12:01:01 +0000 2019,0.0,0.0,1.0,0.0
+421,CNN,"Is breakfast really the most important meal of the day?
+
+A new study finds that eating breakfast may not actually h… https://t.co/LSD4UL1wpd",Sun Feb 03 11:31:00 +0000 2019,0.3306,0.105,0.895,0.0
+422,CNN,Here's a look back at some of the most memorable costumes from Super Bowl halftime shows past… https://t.co/tBNtagBOvY,Sun Feb 03 11:01:08 +0000 2019,0.5994,0.196,0.804,0.0
+423,CNN,This self-taught teen pianist plays with four fingers and two prosthetic legs https://t.co/DmhJaxU3ZI https://t.co/IFRdGa1ni6,Sun Feb 03 10:31:00 +0000 2019,0.25,0.133,0.867,0.0
+424,CNN,A mild traumatic brain injury -- such as from a car crash or violent assault -- may be linked to a higher risk of P… https://t.co/TB7Qi7ozcg,Sun Feb 03 10:01:05 +0000 2019,-0.9584,0.0,0.472,0.528
+425,CNN,This could be the world's heaviest avocado https://t.co/dYXt28sD1e https://t.co/uUMD3K89n5,Sun Feb 03 09:31:00 +0000 2019,0.0,0.0,1.0,0.0
+426,CNN,"When the clock strikes midnight on February 5, wishes of good fortune will be expressed, fireworks will explode int… https://t.co/Rn5JwBzmsv",Sun Feb 03 09:01:07 +0000 2019,0.25,0.188,0.708,0.104
+427,CNN,Many fans attending Super Bowl 53 are traveling through Hartsfield-Jackson Atlanta International Airport. Here's wh… https://t.co/YeVpqCuyEF,Sun Feb 03 08:31:00 +0000 2019,0.5994,0.206,0.794,0.0
+428,CNN,"After one woman paid for hotel rooms for homeless people in Chicago during the  polar vortex, an army of strangers… https://t.co/pMepRawAo8",Sun Feb 03 08:01:04 +0000 2019,0.0,0.0,1.0,0.0
+429,CNN,MIT engineers have developed a robot that plays Jenga using technology they say could be used to assemble consumer… https://t.co/h3ruavSyKD,Sun Feb 03 07:31:00 +0000 2019,0.25,0.1,0.9,0.0
+430,CNN,"Instead of sugary treats, fatty chips, or high-calorie sodas, a vending machine at this elementary school is filled… https://t.co/J5zOQJYJVK",Sun Feb 03 07:01:06 +0000 2019,0.0,0.0,1.0,0.0
+431,CNN,"With a top speed of 207 mph and a starting price of around $215,000, the 2019 Bentley Continental GT is performance… https://t.co/d6BrZKXuXf",Sun Feb 03 06:31:00 +0000 2019,0.5622,0.205,0.795,0.0
+432,CNN,"Starting in the first half of this year, Samsung phones, tablets and wearable devices will be packaged in paper, pu… https://t.co/FMT5aCqVV7",Sun Feb 03 06:01:02 +0000 2019,0.0,0.0,1.0,0.0
+433,CNN,A nine-year conservation project on King Tutankhamun's tomb has finished https://t.co/vqyI8IG9LY https://t.co/QRCUYC3Uvw,Sun Feb 03 05:46:04 +0000 2019,0.0,0.0,1.0,0.0
+434,CNN,Foxconn says it's sticking to its original plan of making flat screen panels at a new plant in Wisconsin following… https://t.co/ItnwA5f3mn,Sun Feb 03 05:31:00 +0000 2019,0.3182,0.108,0.892,0.0
+435,CNN,Machu Picchu is now wheelchair accessible https://t.co/vB6i7jsQyy https://t.co/CybbbAbe4V,Sun Feb 03 05:16:03 +0000 2019,0.0,0.0,1.0,0.0
+436,CNN,"Glaciers in the Canadian Arctic have melted enough to reveal land that was hidden for the last 40,000 years or more… https://t.co/CJzdy6j2vr",Sun Feb 03 05:01:04 +0000 2019,0.0,0.0,1.0,0.0
+437,CNN,An 11-year-old girl began asking nursing home residents what three things in the world they wish they had right now… https://t.co/zgl9oIPhPt,Sun Feb 03 04:31:03 +0000 2019,0.4019,0.119,0.881,0.0
+438,CNN,"European colonizers killed so many Native Americans that it changed the global climate, researchers say… https://t.co/xPVxLhrDwD",Sun Feb 03 04:00:06 +0000 2019,-0.6705,0.0,0.769,0.231
+439,CNN,US cities as cold as the Arctic. An Australian inferno. The UK covered in snow. It's only one month into 2019 and e… https://t.co/UfXAKnrO5S,Sun Feb 03 03:31:09 +0000 2019,0.0,0.0,1.0,0.0
+440,BBC News (World),Deadly school bridge collapse in South Africa https://t.co/YRnzlSLped,Fri Feb 01 17:19:33 +0000 2019,-0.4939,0.0,0.686,0.314
+441,BBC News (World),"A leopard on the loose causes chaos in Indian town, running wild for 12 hours and injuring six people
+
+[Tap to expa… https://t.co/jZEYA0cvJy",Fri Feb 01 16:27:21 +0000 2019,-0.7184,0.0,0.769,0.231
+442,BBC News (World),Xinjiang: Ex-Blackwater chief's security firm linked to China training centre https://t.co/BvfpRAxwpC,Fri Feb 01 16:26:52 +0000 2019,0.34,0.194,0.806,0.0
+443,BBC News (World),Turkey warned over Venezuela gold trade https://t.co/7lMGyLAAXA,Fri Feb 01 16:26:49 +0000 2019,-0.2732,0.0,0.741,0.259
+444,BBC News (World),"RT @BBCNorthAmerica: Calling all New Yorkers! Are you in a romantic relationship with someone of a different race, ethnicity or culture?
+
+D…",Fri Feb 01 15:46:58 +0000 2019,0.4574,0.136,0.864,0.0
+445,BBC News (World),"RT @bbcworldservice: In a major investigation, @BBCArabic visited the site of three US strikes on al-Qaeda targets in Yemen in 2017. They f…",Fri Feb 01 15:35:14 +0000 2019,-0.3612,0.0,0.894,0.106
+446,BBC News (World),"RT @BBC_HaveYourSay: ""You don't owe anyone any money"" 
+
+""You haven't upset anyone""
+
+How reassuring phrases written on a whiteboard for a mo…",Fri Feb 01 15:04:34 +0000 2019,0.5972,0.213,0.787,0.0
+447,BBC News (World),"RT @BBCNorthAmerica: Exhaustion. Alienation. Lack of accomplishment.
+
+Those are three symptoms of “burnout” – and if they sound familiar an…",Fri Feb 01 14:52:05 +0000 2019,-0.7096,0.0,0.699,0.301
+448,BBC News (World),"11-year-old girl raises $62,000 for US care home residents, to help them afford little things that ""make life sweet… https://t.co/YvX06aLcok",Fri Feb 01 14:51:29 +0000 2019,0.7096,0.247,0.753,0.0
+449,BBC News (World),EU-Japan trade: Five things about the world's biggest deal https://t.co/o8fyMCq0Kl,Fri Feb 01 14:49:39 +0000 2019,0.0,0.0,1.0,0.0
+450,BBC News (World),US imposes visa restrictions on Ghana over deportee row https://t.co/YxXBZMhIdg,Fri Feb 01 14:09:45 +0000 2019,-0.1027,0.0,0.865,0.135
+451,BBC News (World),'El Chapo' Guzmán: The story of the notorious Mexican drugs boss https://t.co/CUlET0yF2B,Fri Feb 01 14:00:20 +0000 2019,-0.4404,0.0,0.791,0.209
+452,BBC News (World),The acts of kindness melting hearts in the polar vortex https://t.co/O2bswsa7DE,Fri Feb 01 13:47:32 +0000 2019,0.4588,0.231,0.769,0.0
+453,BBC News (World),France puts up food and drink prices under new law https://t.co/pngjm46TiE,Fri Feb 01 13:27:29 +0000 2019,0.0,0.0,1.0,0.0
+454,BBC News (World),India budget: Will India buy Narendra Modi's story of hope again? https://t.co/XIdPqVcit4,Fri Feb 01 13:26:11 +0000 2019,0.4404,0.209,0.791,0.0
+455,BBC News (World),Probe into Irish 'abortion patient details leak' https://t.co/lK0C9Soyjv,Fri Feb 01 12:44:26 +0000 2019,-0.34,0.0,0.745,0.255
+456,BBC News (World),Cory Booker: New Jersey Democrat joins presidential race https://t.co/jtJJUC592K,Fri Feb 01 12:07:46 +0000 2019,0.0,0.0,1.0,0.0
+457,BBC News (World),Polar vortex death toll rises to 21 as US cold snap continues https://t.co/CU3iwyewln,Fri Feb 01 11:56:14 +0000 2019,-0.5994,0.0,0.755,0.245
+458,BBC News (World),Pangolins: Hong Kong finds 'record' haul of scales in shipping container https://t.co/OqTHvmo9FA,Fri Feb 01 11:21:41 +0000 2019,0.0,0.0,1.0,0.0
+459,BBC News (World),Swedish outcry as pregnant woman dragged off train https://t.co/x67uQajSBe,Fri Feb 01 11:13:05 +0000 2019,-0.5423,0.0,0.609,0.391
+460,CBS News,King Tut's tomb unveiled after being restored to its ancient splendor https://t.co/Ga0y2r1UgN https://t.co/x2aFJPgj1W,Sun Feb 03 09:18:03 +0000 2019,0.7506,0.368,0.632,0.0
+461,CBS News,How a game-changing helmet design could prevent concussions https://t.co/A0B4NBdtoB https://t.co/HId2CoaDIY,Sun Feb 03 09:03:02 +0000 2019,0.0258,0.121,0.879,0.0
+462,CBS News,Meghan Markle writes messages to sex workers on bananas https://t.co/lAmE2QJnhg https://t.co/ZvBpoB2FD1,Sun Feb 03 08:48:03 +0000 2019,0.0,0.0,1.0,0.0
+463,CBS News,Tekashi 6ix9ine pleads guilty in federal court to gang charges https://t.co/FK3HQWI7rk https://t.co/qYByBeLSFd,Sun Feb 03 08:33:02 +0000 2019,-0.5994,0.0,0.671,0.329
+464,CBS News,"Lawmaker: Measles vaccine is not about ""parental rights"" https://t.co/eHoXQ1JI90 https://t.co/6weSPvB0r8",Sun Feb 03 08:18:02 +0000 2019,0.0,0.0,1.0,0.0
+465,CBS News,Super Bowl 2019: Rams invite widow and son of Borderline shooting hero https://t.co/yHoLRlvxdc https://t.co/OILNQChtYs,Sun Feb 03 08:03:02 +0000 2019,0.8442,0.453,0.547,0.0
+466,CBS News,"Super Bowl 2019: Patriots owner Robert Kraft is ""quite confident"" Bill Belichick won't retire this year… https://t.co/WqzMoTfJMh",Sun Feb 03 07:48:03 +0000 2019,0.8122,0.33,0.67,0.0
+467,CBS News,"""He was my boogeyman"":  Another accuser of Houston priest comes forward https://t.co/Mj2UIt7po6 https://t.co/16zOvHXd0h",Sun Feb 03 07:33:02 +0000 2019,0.0,0.0,1.0,0.0
+468,CBS News,Amazon reports record profits for third quarter in a row https://t.co/A2wVu4wikM https://t.co/ssphWKxQ0k,Sun Feb 03 07:18:03 +0000 2019,0.5574,0.338,0.662,0.0
+469,CBS News,Protests held outside NYC correctional facility with limited heat https://t.co/QQ7NWyccSY https://t.co/GG2aRke2tj,Sun Feb 03 07:03:03 +0000 2019,-0.4215,0.0,0.703,0.297
+470,CBS News,"Jeff Flake ""will not be a candidate"" in 2020 presidential race https://t.co/FxAA5SRg9b https://t.co/YyF0ZbHTG0",Sun Feb 03 06:48:02 +0000 2019,0.0,0.0,1.0,0.0
+471,CBS News,"In the shadow of a wall, kids from both sides of the border bond over tennis https://t.co/6aQGVBFmTt https://t.co/bX3gJAbNZ7",Sun Feb 03 06:33:02 +0000 2019,0.0,0.0,1.0,0.0
+472,CBS News,"""Mobituaries"": Mo Rocca shares the stories of ""Forgotten Forerunners"" https://t.co/lauBl4GKCY https://t.co/ENtnmGkGQ3",Sun Feb 03 06:18:03 +0000 2019,0.0772,0.168,0.687,0.145
+473,CBS News,Critically ill football fans get their wish to attend Super Bowl LIII https://t.co/5luzF0U8e9 https://t.co/6PF5QYGQRL,Sun Feb 03 06:03:02 +0000 2019,0.5859,0.324,0.539,0.137
+474,CBS News,Trump says Paul Ryan reneged on deal to fund border wall https://t.co/xIZrfKiAdq https://t.co/YniLcHiMfe,Sun Feb 03 05:48:03 +0000 2019,0.0,0.0,1.0,0.0
+475,CBS News,Black Hawk helicopter and bomb-sniffing dogs: How Atlanta is protecting the Super Bowl https://t.co/qIT1drUzvN https://t.co/wQCC83jVcS,Sun Feb 03 05:33:02 +0000 2019,0.5994,0.218,0.782,0.0
+476,CBS News,Purdue Pharma lawsuit redactions apparently show company wanted to capitalize on opioid addiction treatment… https://t.co/xeickNLJ1o,Sun Feb 03 05:18:02 +0000 2019,-0.2263,0.0,0.881,0.119
+477,CBS News,Venezuelan opposition holds huge rally amid first major army defection against Maduro https://t.co/7hpovuHrh2 https://t.co/LxnaEBM15Q,Sun Feb 03 05:03:03 +0000 2019,-0.0258,0.138,0.719,0.144
+478,CBS News,"Pelosi is ""very bad for our country,"" Trump says in exclusive CBS News interview https://t.co/uISTne3bac https://t.co/hnz7lIhjX3",Sun Feb 03 04:48:03 +0000 2019,-0.5095,0.078,0.726,0.197
+479,CBS News,Coffee shop uses cup sleeves to inspire customers to pay it forward https://t.co/3oXzGjFgaB https://t.co/Wtc5O6ZTw3,Sun Feb 03 04:33:02 +0000 2019,0.5106,0.216,0.702,0.082
+480,The New York Times,What would Medicare for All mean for private insurance plans? Many Democratic presidential candidates in the U.S. s… https://t.co/q5PMdVfzDN,Sun Feb 03 13:00:13 +0000 2019,0.0,0.0,1.0,0.0
+481,The New York Times,"""Where is the warden? Where is the heat?"" https://t.co/xyPthxJuaU",Sun Feb 03 12:45:04 +0000 2019,0.0,0.0,1.0,0.0
+482,The New York Times,"A brutal game got them hooked on painkillers. In retirement, they battle addiction. Here's how the opioid crisis co… https://t.co/gQXrCNFRVi",Sun Feb 03 12:30:07 +0000 2019,-0.8957,0.0,0.597,0.403
+483,The New York Times,"In Opinon
+
+@DLeonhardt writes, ""Too often, journalists confuse centrism with fairness, objectivity or common-sense… https://t.co/O0rsDRamZO",Sun Feb 03 12:15:02 +0000 2019,-0.2263,0.0,0.881,0.119
+484,The New York Times,Sweating through winter in an overenthusiastically heated  apartment? Here are some ways to cool things off. https://t.co/mtP2d6Q4nu,Sun Feb 03 11:51:57 +0000 2019,0.3182,0.126,0.874,0.0
+485,The New York Times,"""Last year’s 'summer of scam' has extended into a never-ending, all-weather 'scam season,'"" writes @amandahess https://t.co/rC4tnAIJWs",Sun Feb 03 11:34:26 +0000 2019,-0.8126,0.0,0.637,0.363
+486,The New York Times,RT @NYTHealth: The official cause of Lamekia Dockery's death was sepsis from an untreated perforated ulcer. Read how @sarahmaslinnir obtain…,Sun Feb 03 11:16:53 +0000 2019,-0.5994,0.0,0.83,0.17
+487,The New York Times,Russia says it will build weapons previously banned under a nuclear disarmament treaty and will no longer initiate… https://t.co/LWX38QBpXf,Sun Feb 03 11:00:12 +0000 2019,-0.7964,0.0,0.649,0.351
+488,The New York Times,"""I wanted to face childbirth with the same kind of confidence that radiated from the runners I admired. So I turned… https://t.co/utL4s2K1xY",Sun Feb 03 10:33:40 +0000 2019,0.7436,0.259,0.741,0.0
+489,The New York Times,"RT @nytimesphoto: Spanning time and continents, Ozier Muhammad photographed the famous and the unknown with dignity and respect https://t.c…",Sun Feb 03 10:16:32 +0000 2019,0.7003,0.254,0.746,0.0
+490,The New York Times,New video shows the moment of a fatal dam collapse in Brazil. Vehicles are seen racing around to escape the wave of… https://t.co/CsG7X6KPWJ,Sun Feb 03 10:00:04 +0000 2019,-0.7184,0.062,0.693,0.245
+491,The New York Times,Here are some tips to get your digital life in order https://t.co/VxO9zBzkty,Sun Feb 03 09:33:38 +0000 2019,0.0,0.0,1.0,0.0
+492,The New York Times,"RT @nytimesarts: Why is ""Paradise Square"" the costliest musical ever mounted at the Berkeley Repertory Theater? “It’s about two brutalized…",Sun Feb 03 09:17:22 +0000 2019,0.6369,0.181,0.819,0.0
+493,The New York Times,"Gliding through the air, glowing in the dark — is there nothing flying squirrels can't do? https://t.co/SYqzKYebZc",Sun Feb 03 08:59:20 +0000 2019,0.0,0.0,1.0,0.0
+494,The New York Times,A beginner's guide to podcasts https://t.co/80aCM2sHSE,Sun Feb 03 08:41:42 +0000 2019,0.0,0.0,1.0,0.0
+495,The New York Times,"RT @NYTScience: How do some young doctors feel on the job? ""I didn’t realize there would be so many deaths.” https://t.co/jOQCoC6N5X",Sun Feb 03 08:23:48 +0000 2019,0.0,0.0,1.0,0.0
+496,The New York Times,"RT @wirecutter: After testing 11 boxed chocolate brands, we were surprised to discover that high price doesn’t necessarily translate to gre…",Sun Feb 03 08:06:22 +0000 2019,0.2263,0.087,0.913,0.0
+497,The New York Times,"In Opinion
+
+Sarah Hutto writes, ""Football is moshing in shiny pants without music while wearing helmets. Skydiving… https://t.co/Sh4Px4LbrS",Sun Feb 03 07:49:01 +0000 2019,0.0,0.0,1.0,0.0
+498,The New York Times,"RT @nytimesworld: The taboo, which has its roots in Hinduism, is called chhaupadi, from the Nepali words meaning someone who bears an impur…",Sun Feb 03 07:31:53 +0000 2019,0.0,0.0,1.0,0.0
+499,The New York Times,"RT @meslackman: 日本のワーキングマザー　妻の過大な負担・夫の過少な支援 (Yes, this article by @motokorich is  in Japanese, too!) https://t.co/PIP3sWkl4b",Sun Feb 03 07:15:05 +0000 2019,0.0,0.0,1.0,0.0
